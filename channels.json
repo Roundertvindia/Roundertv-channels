@@ -1,0 +1,12 @@
+[
+  {
+    "id": "001",
+    "main": "https://example.com/live/stream001.m3u8",
+    "category": "news"
+  },
+  {
+    "id": "002",
+    "main": "https://example.com/live/stream002.m3u8",
+    "category": "news"
+  }
+]
