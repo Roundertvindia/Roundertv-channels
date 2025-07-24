@@ -1,9 +1,12 @@
 [
   {
     "id": "001",
-    "channel": "https://yourmain.m3u8",
-    "front": "https://roundertvindia.vercel.app/frontintro/intro.m3u8",
-    "backup": "https://roundertvindia.vercel.app/backintro/backend.m3u8",
+    "channel": "https://example.com/main.m3u8",
     "category": "news"
+  },
+  {
+    "id": "002",
+    "channel": "https://example.com/sports.m3u8",
+    "category": "sports"
   }
 ]
