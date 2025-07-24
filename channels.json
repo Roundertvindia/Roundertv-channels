@@ -6,7 +6,7 @@
   },
   {
     "id": "002",
-    "channel": "https://example.com/sports.m3u8",
+    "channel": "https://vishwas-oppu.vercel.app/play.m3u8?id=221252",
     "category": "sports"
   }
 ]
