@@ -1,12 +1,10 @@
 [
   {
     "id": "001",
-    "channel": "https://example.com/main.m3u8",
-    "category": "news"
+    "url": "https://live.example.com/stream001.m3u8"
   },
   {
     "id": "002",
-    "channel": "https://vishwas-oppu.vercel.app/play.m3u8?id=221252",
-    "category": "sports"
+    "url": "https://live.example.com/stream002.m3u8"
   }
 ]
