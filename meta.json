@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "id": "001",
+    "name": "Testing",
+    "category": "News"
+  }
+]
