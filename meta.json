@@ -3,5 +3,10 @@
     "id": "003",
     "name": "Sony ji",
     "category": "Sports"
+  },
+  {
+    "id": "004",
+    "name": "Zee ci",
+    "category": "News"
   }
 ]
