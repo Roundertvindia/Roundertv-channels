@@ -8,5 +8,10 @@
     "id": "002",
     "name": "Test",
     "category": "News"
+  },
+  {
+    "id": "003",
+    "name": "Testi",
+    "category": "News"
   }
 ]
