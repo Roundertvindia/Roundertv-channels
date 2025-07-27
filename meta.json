@@ -13,5 +13,10 @@
     "id": "005",
     "name": "Jio",
     "category": "Marathi"
+  },
+  {
+    "id": "006",
+    "name": "Rounder",
+    "category": "Informaint"
   }
 ]
