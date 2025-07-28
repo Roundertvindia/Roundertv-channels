@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "001",
+    "name": "Aaj tak",
+    "category": "News",
+    "server": "Zee5",
+    "switch": "✅"
+  }
+]
