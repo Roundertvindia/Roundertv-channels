@@ -579,5 +579,26 @@
     "category": "Kids",
     "server": "Jdjd",
     "switch": "✅"
+  },
+  {
+    "id": "084",
+    "name": "Shinchan 24x7",
+    "category": "Kids",
+    "server": "jdjjd",
+    "switch": "✅"
+  },
+  {
+    "id": "085",
+    "name": "Chhota Bheem",
+    "category": "Kids",
+    "server": "hdjd",
+    "switch": "✅"
+  },
+  {
+    "id": "086",
+    "name": "Tom & Jerry",
+    "category": "Kids",
+    "server": "Opplex ",
+    "switch": "✅"
   }
 ]
