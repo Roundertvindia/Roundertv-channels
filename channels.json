@@ -18,5 +18,9 @@
   {
     "id": "005",
     "url": "https://feeds.intoday.in/hltapps/api/master.m3u8"
+  },
+  {
+    "id": "006",
+    "url": "https://vaibhav.freelivtv.xyz/app/ts_live_258.m3u8"
   }
 ]
