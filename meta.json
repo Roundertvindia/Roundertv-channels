@@ -733,5 +733,19 @@
     "category": "Sports",
     "server": "Jdjs",
     "switch": "✅"
+  },
+  {
+    "id": "106",
+    "name": "Sony Sports Ten 5",
+    "category": "Sports",
+    "server": "Js",
+    "switch": "✅"
+  },
+  {
+    "id": "107",
+    "name": "Aastha",
+    "category": "Devotional",
+    "server": "Home W.S",
+    "switch": "✅"
   }
 ]
