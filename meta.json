@@ -1006,5 +1006,40 @@
     "category": "Odia",
     "server": "Home W.S",
     "switch": "✅"
+  },
+  {
+    "id": "145",
+    "name": "Kalinga TV",
+    "category": "Odia",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "146",
+    "name": "Kanak News",
+    "category": "Odia",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "147",
+    "name": "Prameya News 7",
+    "category": "Odia",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "148",
+    "name": "Prameya News 7",
+    "category": "Odia",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "149",
+    "name": "Prameya News 7",
+    "category": "Odia",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
