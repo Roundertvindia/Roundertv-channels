@@ -70,5 +70,9 @@
   {
     "id": "018",
     "url": "https://feeds.intoday.in/gnt/api/master.m3u8"
+  },
+  {
+    "id": "019",
+    "url": "https://vaibhav.freelivtv.xyz/app/ts_live_203.m3u8"
   }
 ]
