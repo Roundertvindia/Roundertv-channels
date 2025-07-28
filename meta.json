@@ -614,5 +614,12 @@
     "category": "Informaint",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "089",
+    "name": "BBC Earth",
+    "category": "Informaint",
+    "server": "Sony Liv",
+    "switch": "✅"
   }
 ]
