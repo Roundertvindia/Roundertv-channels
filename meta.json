@@ -96,5 +96,12 @@
     "category": "News",
     "server": "Zee5 W.S",
     "switch": "✅"
+  },
+  {
+    "id": "015",
+    "name": "Zee Madhya Pradesh",
+    "category": "News",
+    "server": "Zee5 W.S",
+    "switch": "✅"
   }
 ]
