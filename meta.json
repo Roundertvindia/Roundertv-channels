@@ -180,5 +180,12 @@
     "category": "Entertainment",
     "server": "Tplay",
     "switch": "✅"
+  },
+  {
+    "id": "027",
+    "name": "Sony Sab HD",
+    "category": "Entertainment",
+    "server": "Sony liv",
+    "switch": "✅"
   }
 ]
