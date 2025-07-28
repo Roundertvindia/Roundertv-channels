@@ -292,5 +292,12 @@
     "category": "Movies",
     "server": "No Server",
     "switch": "❌"
+  },
+  {
+    "id": "043",
+    "name": "Star Movies HD",
+    "category": "Movies",
+    "server": "Opplex",
+    "switch": "✅"
   }
 ]
