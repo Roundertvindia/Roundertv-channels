@@ -1076,5 +1076,12 @@
     "category": "Odia",
     "server": "No Server",
     "switch": "❌"
+  },
+  {
+    "id": "154",
+    "name": "Sidharth Gold",
+    "category": "Odia",
+    "server": "Tplay",
+    "switch": "✅"
   }
 ]
