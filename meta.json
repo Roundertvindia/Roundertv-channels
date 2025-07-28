@@ -680,66 +680,67 @@
   },
   {
     "id": "098",
-    "name": "Star Sports khel",
-    "category": "Sports",
-    "server": "JIO TV",
-    "switch": "✅"
-  },
-  {
-    "id": "099",
     "name": "Star Sports Khel",
     "category": "Sports",
     "server": "JIO TV",
     "switch": "✅"
   },
   {
-    "id": "100",
+    "id": "099",
     "name": "Star Sports Select 1",
     "category": "Sports",
     "server": "Tplay",
     "switch": "✅"
   },
   {
-    "id": "101",
+    "id": "100",
     "name": "Star Sports Select 2",
     "category": "Sports",
     "server": "Tplay",
     "switch": "✅"
   },
   {
-    "id": "102",
+    "id": "101",
     "name": "Sony Sports Ten 1",
     "category": "Sports",
     "server": "Sony Liv",
     "switch": "✅"
   },
   {
-    "id": "103",
+    "id": "102",
     "name": "Sony Sports Ten 2",
     "category": "Sports",
     "server": "Jsjs",
     "switch": "✅"
   },
   {
-    "id": "104",
+    "id": "103",
     "name": "Sony Sports Ten 3",
     "category": "Sports",
     "server": "Jsjsj",
     "switch": "✅"
   },
   {
-    "id": "105",
+    "id": "104",
     "name": "Sony Sports Ten 4",
     "category": "Sports",
     "server": "Jdjs",
     "switch": "✅"
   },
   {
-    "id": "106",
+    "id": "105",
     "name": "Sony Sports Ten 5",
     "category": "Sports",
     "server": "Js",
     "switch": "✅"
+  },
+  {
+    "id": "106",
+    "name": "Aastha",
+    "category": "Devotional",
+    "server": "Home W.S",
+    "switch": "✅"
+  }
   },
   {
     "id": "107",
@@ -748,4 +749,6 @@
     "server": "Home W.S",
     "switch": "✅"
   }
+]
+    
 ]
