@@ -670,5 +670,33 @@
     "category": "Sports",
     "server": "Tplay",
     "switch": "✅"
+  },
+  {
+    "id": "097",
+    "name": "Star Sports 2",
+    "category": "Sports",
+    "server": "Tplay",
+    "switch": "✅"
+  },
+  {
+    "id": "098",
+    "name": "Star Sports khel",
+    "category": "Sports",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "099",
+    "name": "Star Sports Khel",
+    "category": "Sports",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "100",
+    "name": "Star Sports Select 1",
+    "category": "Sports",
+    "server": "Tplay",
+    "switch": "✅"
   }
 ]
