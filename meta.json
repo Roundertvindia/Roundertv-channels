@@ -313,5 +313,33 @@
     "category": "Movies",
     "server": "Sony Liv",
     "switch": "✅"
+  },
+  {
+    "id": "046",
+    "name": "Sony Max 2",
+    "category": "Movies",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "047",
+    "name": "Sony Wah",
+    "category": "Movies",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "048",
+    "name": "Sony Pix",
+    "category": "Movies",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "049",
+    "name": "Zee Cinema HD",
+    "category": "Movies",
+    "server": "Zee5",
+    "switch": "✅"
   }
 ]
