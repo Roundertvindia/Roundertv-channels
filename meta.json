@@ -495,5 +495,12 @@
     "category": "Music",
     "server": "Zee5",
     "switch": "✅"
+  },
+  {
+    "id": "072",
+    "name": "Nick",
+    "category": "Kids",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
