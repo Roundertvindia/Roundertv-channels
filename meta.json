@@ -796,5 +796,19 @@
     "category": "Devotional",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "115",
+    "name": "Ishwar TV",
+    "category": "Devotional",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "116",
+    "name": "Chardikla Times TV",
+    "category": "Punjabi",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
