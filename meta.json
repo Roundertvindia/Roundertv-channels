@@ -621,5 +621,40 @@
     "category": "Informaint",
     "server": "Sony Liv",
     "switch": "✅"
+  },
+  {
+    "id": "090",
+    "name": "National Geographic",
+    "category": "Informaint",
+    "server": "Tplay",
+    "switch": "✅"
+  },
+  {
+    "id": "091",
+    "name": "Discovery Science",
+    "category": "Informaint",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "092",
+    "name": "Discovery Channel",
+    "category": "Informaint",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "093",
+    "name": "Animal Planet",
+    "category": "Informaint",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "094",
+    "name": "DD Sports",
+    "category": "Sports",
+    "server": "Locally",
+    "switch": "✅"
   }
 ]
