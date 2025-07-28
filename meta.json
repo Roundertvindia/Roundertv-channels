@@ -901,5 +901,12 @@
     "category": "Bengali",
     "server": "Home W.S",
     "switch": "✅"
+  },
+  {
+    "id": "130",
+    "name": "Republic Bangla",
+    "category": "Bengali",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
