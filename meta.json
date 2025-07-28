@@ -432,5 +432,40 @@
     "category": "Music",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "063",
+    "name": "MTV",
+    "category": "Music",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "064",
+    "name": "B4U Music",
+    "category": "Music",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "065",
+    "name": "Mastiii",
+    "category": "Music",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "066",
+    "name": "Music India",
+    "category": "Music",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "067",
+    "name": "Zoom",
+    "category": "Music",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
