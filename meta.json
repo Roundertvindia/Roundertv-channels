@@ -47,5 +47,12 @@
     "category": "News",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "008",
+    "name": "News Nation",
+    "category": "News",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
