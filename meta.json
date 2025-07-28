@@ -1041,5 +1041,12 @@
     "category": "Odia",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "150",
+    "name": "Star Kiran",
+    "category": "Odia",
+    "server": "No Server",
+    "switch": "❌"
   }
 ]
