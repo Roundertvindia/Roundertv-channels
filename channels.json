@@ -14,5 +14,9 @@
   {
     "id": "004",
     "url": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8"
+  },
+  {
+    "id": "005",
+    "url": "https://feeds.intoday.in/hltapps/api/master.m3u8"
   }
 ]
