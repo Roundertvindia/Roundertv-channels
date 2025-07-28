@@ -66,5 +66,9 @@
   {
     "id": "017",
     "url": "https://dwby15d04agvq.cloudfront.net/index_5.m3u8"
+  },
+  {
+    "id": "018",
+    "url": "https://feeds.intoday.in/gnt/api/master.m3u8"
   }
 ]
