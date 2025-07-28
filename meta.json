@@ -173,5 +173,12 @@
     "category": "Entertainment",
     "server": "Zee5",
     "switch": "✅"
+  },
+  {
+    "id": "026",
+    "name": "Sony Sab",
+    "category": "Entertainment",
+    "server": "Tplay",
+    "switch": "✅"
   }
 ]
