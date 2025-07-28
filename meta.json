@@ -250,5 +250,12 @@
     "category": "Entertainment",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "037",
+    "name": "DD National",
+    "category": "Entertainment",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
