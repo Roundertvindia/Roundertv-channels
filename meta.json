@@ -117,5 +117,12 @@
     "category": "News",
     "server": "Zee5 W.S",
     "switch": "✅"
+  },
+  {
+    "id": "018",
+    "name": "Good News Today",
+    "category": "News",
+    "server": "Zee5 W.S",
+    "switch": "✅"
   }
 ]
