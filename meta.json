@@ -348,5 +348,33 @@
     "category": "Movies",
     "server": "Zee5",
     "switch": "✅"
+  },
+  {
+    "id": "051",
+    "name": "Zee Classic",
+    "category": "Movies",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "052",
+    "name": "Zee Action",
+    "category": "Movies",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "053",
+    "name": "& Pictures HD",
+    "category": "Movies",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "054",
+    "name": "& Flix HD",
+    "category": "Movies",
+    "server": "Zee5",
+    "switch": "✅"
   }
 ]
