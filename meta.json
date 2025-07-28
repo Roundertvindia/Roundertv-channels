@@ -54,5 +54,12 @@
     "category": "News",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "009",
+    "name": "News 24",
+    "category": "News",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
