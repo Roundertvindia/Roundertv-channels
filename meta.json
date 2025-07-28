@@ -656,5 +656,33 @@
     "category": "Sports",
     "server": "Locally",
     "switch": "✅"
+  },
+  {
+    "id": "095",
+    "name": "Star Sports 1 HD",
+    "category": "Sports",
+    "server": "Tplay",
+    "switch": "✅"
+  },
+  {
+    "id": "096",
+    "name": "Star Sports 1 Hindi",
+    "category": "Sports",
+    "server": "Tplay",
+    "switch": "✅"
+  },
+  {
+    "id": "097",
+    "name": "Star Sports 2",
+    "category": "Sports",
+    "server": "Tplay",
+    "switch": "✅"
+  },
+  {
+    "id": "098",
+    "name": "Star Sports Khel",
+    "category": "Sports",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
