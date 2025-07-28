@@ -61,5 +61,12 @@
     "category": "News",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "010",
+    "name": "News 18 India",
+    "category": "News",
+    "server": "Voot W.S",
+    "switch": "✅"
   }
 ]
