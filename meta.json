@@ -82,5 +82,12 @@
     "category": "News",
     "server": "Zee5 W.S",
     "switch": "✅"
+  },
+  {
+    "id": "013",
+    "name": "Zee Punjab",
+    "category": "News",
+    "server": "Zee5 W.S",
+    "switch": "✅"
   }
 ]
