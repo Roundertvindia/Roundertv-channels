@@ -138,5 +138,12 @@
     "category": "News",
     "server": "Home W.S",
     "switch": "✅"
+  },
+  {
+    "id": "021",
+    "name": "Star Plus HD",
+    "category": "Entertainment",
+    "server": "Tplay",
+    "switch": "✅"
   }
 ]
