@@ -740,5 +740,47 @@
     "category": "Devotional",
     "server": "Home W.S",
     "switch": "✅"
+  },
+  {
+    "id": "107",
+    "name": "Sadhna",
+    "category": "Devotional",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "108",
+    "name": "Sanskar",
+    "category": "Devotional",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "109",
+    "name": "Arihant TV",
+    "category": "Devotional",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "110",
+    "name": "Satsang TV",
+    "category": "Devotional",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "111",
+    "name": "Divya TV",
+    "category": "Devotional",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "112",
+    "name": "Divya TV",
+    "category": "Devotional",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
