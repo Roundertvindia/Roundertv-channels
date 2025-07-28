@@ -488,5 +488,12 @@
     "category": "Music",
     "server": "Home W.S",
     "switch": "✅"
+  },
+  {
+    "id": "071",
+    "name": "Zing",
+    "category": "Music",
+    "server": "Zee5",
+    "switch": "✅"
   }
 ]
