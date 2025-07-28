@@ -411,5 +411,19 @@
     "category": "Movies",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "060",
+    "name": "B4U Movies",
+    "category": "Movies",
+    "server": "Tplay",
+    "switch": "✅"
+  },
+  {
+    "id": "061",
+    "name": "9XM",
+    "category": "Music",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
