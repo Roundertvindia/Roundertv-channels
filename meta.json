@@ -187,5 +187,33 @@
     "category": "Entertainment",
     "server": "Sony liv",
     "switch": "✅"
+  },
+  {
+    "id": "028",
+    "name": "Set HD",
+    "category": "Entertainment",
+    "server": "Sony liv",
+    "switch": "✅"
+  },
+  {
+    "id": "029",
+    "name": "Sony Pal",
+    "category": "Entertainment",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "030",
+    "name": "Big Magic",
+    "category": "Entertainment",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "031",
+    "name": "Colors Rishtey",
+    "category": "Entertainment",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
