@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "001",
+    "name": "Rounder",
+    "category": "Entertainment",
+    "server": "Starshare",
+    "switch": "✅"
+  },
+  {
+    "id": "002",
+    "name": "Star Plus",
+    "category": "Movies",
+    "server": "Tataplay",
+    "switch": "✅"
+  }
+]
