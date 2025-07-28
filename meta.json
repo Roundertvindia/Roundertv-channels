@@ -679,6 +679,13 @@
     "switch": "✅"
   },
   {
+    "id": "098",
+    "name": "Star Sports khel",
+    "category": "Sports",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
     "id": "099",
     "name": "Star Sports Khel",
     "category": "Sports",
@@ -703,7 +710,7 @@
     "id": "102",
     "name": "Sony Sports Ten 1",
     "category": "Sports",
-    "server": "Jdjs",
+    "server": "Sony Liv",
     "switch": "✅"
   },
   {
