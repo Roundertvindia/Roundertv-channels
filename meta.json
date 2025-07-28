@@ -40,5 +40,12 @@
     "category": "News",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "007",
+    "name": "NDTV 24x7",
+    "category": "News",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
