@@ -124,5 +124,12 @@
     "category": "News",
     "server": "Zee5 W.S",
     "switch": "✅"
+  },
+  {
+    "id": "019",
+    "name": "DD News",
+    "category": "News",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
