@@ -2,5 +2,9 @@
   {
     "id": "001",
     "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
+  },
+  {
+    "id": "002",
+    "url": "https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master_720.m3u8"
   }
 ]
