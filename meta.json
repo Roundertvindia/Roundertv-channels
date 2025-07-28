@@ -131,5 +131,12 @@
     "category": "News",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "020",
+    "name": "TV9 Bharatvarsh",
+    "category": "News",
+    "server": "Home W.S",
+    "switch": "✅"
   }
 ]
