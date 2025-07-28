@@ -89,5 +89,12 @@
     "category": "News",
     "server": "Zee5 W.S",
     "switch": "✅"
+  },
+  {
+    "id": "014",
+    "name": "Zee Rajashthan",
+    "category": "News",
+    "server": "Zee5 W.S",
+    "switch": "✅"
   }
 ]
