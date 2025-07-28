@@ -264,5 +264,26 @@
     "category": "Movies",
     "server": "Tplay",
     "switch": "✅"
+  },
+  {
+    "id": "039",
+    "name": "Star Gold 2",
+    "category": "Movies",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "040",
+    "name": "Star Gold Select",
+    "category": "Movies",
+    "server": "Star share",
+    "switch": "✅"
+  },
+  {
+    "id": "041",
+    "name": "Star Gold Romance",
+    "category": "Movies",
+    "server": "Opplex",
+    "switch": "✅"
   }
 ]
