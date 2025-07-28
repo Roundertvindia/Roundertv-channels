@@ -1,9 +1,611 @@
 [
   {
     "id": "001",
-    "name": "Sadhna",
-    "category": "Devotional",
+    "name": "Aaj tak",
+    "category": "News",
+    "server": "Zee5 W.S",
+    "switch": "✅"
+  },
+  {
+    "id": "002",
+    "name": "ABP News",
+    "category": "News",
+    "server": "W.S",
+    "switch": "✅"
+  },
+  {
+    "id": "003",
+    "name": "India News",
+    "category": "News",
     "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "004",
+    "name": "India TV",
+    "category": "News",
+    "server": "Zee5 W.S",
+    "switch": "✅"
+  },
+  {
+    "id": "005",
+    "name": "India Today",
+    "category": "News",
+    "server": "Zee5 W.S",
+    "switch": "✅"
+  },
+  {
+    "id": "006",
+    "name": "NDTV India",
+    "category": "News",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "007",
+    "name": "NDTV 24x7",
+    "category": "News",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "008",
+    "name": "News Nation",
+    "category": "News",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "009",
+    "name": "News 24",
+    "category": "News",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "010",
+    "name": "News 18 India",
+    "category": "News",
+    "server": "Voot W.S",
+    "switch": "✅"
+  },
+  {
+    "id": "011",
+    "name": "Zee News",
+    "category": "News",
+    "server": "Zee5 W.S",
+    "switch": "✅"
+  },
+  {
+    "id": "012",
+    "name": "Zee Bharat",
+    "category": "News",
+    "server": "Zee5 W.S",
+    "switch": "✅"
+  },
+  {
+    "id": "013",
+    "name": "Zee Punjab",
+    "category": "News",
+    "server": "Zee5 W.S",
+    "switch": "✅"
+  },
+  {
+    "id": "014",
+    "name": "Zee Rajashthan",
+    "category": "News",
+    "server": "Zee5 W.S",
+    "switch": "✅"
+  },
+  {
+    "id": "015",
+    "name": "Zee Madhya Pradesh",
+    "category": "News",
+    "server": "Zee5 W.S",
+    "switch": "✅"
+  },
+  {
+    "id": "016",
+    "name": "Zee Uttar Pradesh",
+    "category": "News",
+    "server": "Zee5 W.S",
+    "switch": "✅"
+  },
+  {
+    "id": "017",
+    "name": "Zee Business",
+    "category": "News",
+    "server": "Zee5 W.S",
+    "switch": "✅"
+  },
+  {
+    "id": "018",
+    "name": "Good News Today",
+    "category": "News",
+    "server": "Zee5 W.S",
+    "switch": "✅"
+  },
+  {
+    "id": "019",
+    "name": "DD News",
+    "category": "News",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "020",
+    "name": "TV9 Bharatvarsh",
+    "category": "News",
+    "server": "Home W.S",
+    "switch": "✅"
+  },
+  {
+    "id": "021",
+    "name": "Star Plus HD",
+    "category": "Entertainment",
+    "server": "Tplay",
+    "switch": "✅"
+  },
+  {
+    "id": "022",
+    "name": "Star Bharat",
+    "category": "Entertainment",
+    "server": "Tplay",
+    "switch": "✅"
+  },
+  {
+    "id": "023",
+    "name": "Zee TV",
+    "category": "Entertainment",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "024",
+    "name": "Colors HD",
+    "category": "Entertainment",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "025",
+    "name": "&tv",
+    "category": "Entertainment",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "026",
+    "name": "Sony Sab",
+    "category": "Entertainment",
+    "server": "Tplay",
+    "switch": "❌"
+  },
+  {
+    "id": "027",
+    "name": "Sony Sab HD",
+    "category": "Entertainment",
+    "server": "Sony liv",
+    "switch": "✅"
+  },
+  {
+    "id": "028",
+    "name": "Set HD",
+    "category": "Entertainment",
+    "server": "Sony liv",
+    "switch": "✅"
+  },
+  {
+    "id": "029",
+    "name": "Sony Pal",
+    "category": "Entertainment",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "030",
+    "name": "Big Magic",
+    "category": "Entertainment",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "031",
+    "name": "Colors Rishtey",
+    "category": "Entertainment",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "032",
+    "name": "Star Utsav",
+    "category": "Entertainment",
+    "server": "Tplay",
+    "switch": "✅"
+  },
+  {
+    "id": "033",
+    "name": "Zee Anmol",
+    "category": "Entertainment",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "034",
+    "name": "Dangal",
+    "category": "Entertainment",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "035",
+    "name": "Shemaro TV",
+    "category": "Entertainment",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "036",
+    "name": "Shemaro umag",
+    "category": "Entertainment",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "037",
+    "name": "DD National",
+    "category": "Entertainment",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "038",
+    "name": "Star Gold",
+    "category": "Movies",
+    "server": "Tplay",
+    "switch": "✅"
+  },
+  {
+    "id": "039",
+    "name": "Star Gold 2",
+    "category": "Movies",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "040",
+    "name": "Star Gold Select",
+    "category": "Movies",
+    "server": "Star share",
+    "switch": "✅"
+  },
+  {
+    "id": "041",
+    "name": "Star Gold Romance",
+    "category": "Movies",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "042",
+    "name": "Star Gold Thrills",
+    "category": "Movies",
+    "server": "No Server",
+    "switch": "❌"
+  },
+  {
+    "id": "043",
+    "name": "Star Movies HD",
+    "category": "Movies",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "044",
+    "name": "Sony Max",
+    "category": "Movies",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "045",
+    "name": "Sony Max HD",
+    "category": "Movies",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "046",
+    "name": "Sony Max 2",
+    "category": "Movies",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "047",
+    "name": "Sony Wah",
+    "category": "Movies",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "048",
+    "name": "Sony Pix",
+    "category": "Movies",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "049",
+    "name": "Zee Cinema HD",
+    "category": "Movies",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "050",
+    "name": "Zee Bollywood",
+    "category": "Movies",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "051",
+    "name": "Zee Classic",
+    "category": "Movies",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "052",
+    "name": "Zee Action",
+    "category": "Movies",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "053",
+    "name": "& Pictures HD",
+    "category": "Movies",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "054",
+    "name": "& Flix HD",
+    "category": "Movies",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "055",
+    "name": "Colors Infinity",
+    "category": "Movies",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "056",
+    "name": "Colors Cineplex",
+    "category": "Movies",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "057",
+    "name": "Colors Cineplex HD",
+    "category": "Movies",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "058",
+    "name": "Colors Cineplex Bollywood",
+    "category": "Movies",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "059",
+    "name": "Colors Cineplex Superhit",
+    "category": "Movies",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "060",
+    "name": "B4U Movies",
+    "category": "Movies",
+    "server": "Tplay",
+    "switch": "✅"
+  },
+  {
+    "id": "061",
+    "name": "9XM",
+    "category": "Music",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "062",
+    "name": "9X Jalwa",
+    "category": "Music",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "063",
+    "name": "MTV",
+    "category": "Music",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "064",
+    "name": "B4U Music",
+    "category": "Music",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "065",
+    "name": "Mastiii",
+    "category": "Music",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "066",
+    "name": "Music India",
+    "category": "Music",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "067",
+    "name": "Zoom",
+    "category": "Music",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "068",
+    "name": "MH1 Music",
+    "category": "Music",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "069",
+    "name": "YRF Music",
+    "category": "Music",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "070",
+    "name": "Show Box TV",
+    "category": "Music",
+    "server": "Home W.S",
+    "switch": "✅"
+  },
+  {
+    "id": "071",
+    "name": "Zing",
+    "category": "Music",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "072",
+    "name": "Nick",
+    "category": "Kids",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "073",
+    "name": "Pogo",
+    "category": "Kids",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "074",
+    "name": "Cartoon Network",
+    "category": "Kids",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "075",
+    "name": "Super Hungama",
+    "category": "Kids",
+    "server": "Tplay",
+    "switch": "✅"
+  },
+  {
+    "id": "076",
+    "name": "Hungama",
+    "category": "Kids",
+    "server": "Bang",
+    "switch": "✅"
+  },
+  {
+    "id": "077",
+    "name": "Disney",
+    "category": "Kids",
+    "server": "Tplay",
+    "switch": "✅"
+  },
+  {
+    "id": "078",
+    "name": "Sony Yay",
+    "category": "Kids",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "079",
+    "name": "Sonic",
+    "category": "Kids",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "080",
+    "name": "Nick jr",
+    "category": "Kids",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "081",
+    "name": "Motu Patlu Server 1",
+    "category": "Kids",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "082",
+    "name": "Motu Patlu Server 2",
+    "category": "Kids",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "083",
+    "name": "Doraemon 24x7",
+    "category": "Kids",
+    "server": "Star Share",
+    "switch": "✅"
+  },
+  {
+    "id": "084",
+    "name": "Shinchan 24x7",
+    "category": "Kids",
+    "server": "Star share",
+    "switch": "✅"
+  },
+  {
+    "id": "085",
+    "name": "Chhota Bheem",
+    "category": "Kids",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "086",
+    "name": "Tom & Jerry",
+    "category": "Kids",
+    "server": "Opplex ",
+    "switch": "✅"
+  },
+  {
+    "id": "087",
+    "name": "History TV 18",
+    "category": "Informaint",
+    "server": "",
     "switch": "✅"
   }
 ]
