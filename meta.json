@@ -887,5 +887,12 @@
     "category": "Punjabi",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "128",
+    "name": "ABP Ananda",
+    "category": "Bengali",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
