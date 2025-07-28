@@ -299,5 +299,12 @@
     "category": "Movies",
     "server": "Opplex",
     "switch": "✅"
+  },
+  {
+    "id": "044",
+    "name": "Sony Max",
+    "category": "Movies",
+    "server": "Sony Liv",
+    "switch": "✅"
   }
 ]
