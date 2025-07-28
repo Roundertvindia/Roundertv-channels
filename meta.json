@@ -929,5 +929,26 @@
     "category": "Bengali",
     "server": "Zee5",
     "switch": "✅"
+  },
+  {
+    "id": "134",
+    "name": "Colours Bangla",
+    "category": "Bengali",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "135",
+    "name": "Sun Bangla",
+    "category": "Bengali",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "136",
+    "name": "Sony Aath",
+    "category": "Bengali",
+    "server": "Sony Liv",
+    "switch": "✅"
   }
 ]
