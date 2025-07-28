@@ -999,5 +999,12 @@
     "category": "Bengali",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "144",
+    "name": "OTV News",
+    "category": "Odia",
+    "server": "Home W.S",
+    "switch": "✅"
   }
 ]
