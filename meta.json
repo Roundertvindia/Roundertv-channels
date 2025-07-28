@@ -537,5 +537,40 @@
     "category": "Kids",
     "server": "Tplay",
     "switch": "✅"
+  },
+  {
+    "id": "078",
+    "name": "Sony Yay",
+    "category": "Kids",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "079",
+    "name": "Sonic",
+    "category": "Kids",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "080",
+    "name": "Nick jr",
+    "category": "Kids",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "081",
+    "name": "Motu Patlu Server 1",
+    "category": "Kids",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "082",
+    "name": "Motu Patlu Server 2",
+    "category": "Kids",
+    "server": "Opplex",
+    "switch": "✅"
   }
 ]
