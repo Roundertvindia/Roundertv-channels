@@ -607,5 +607,12 @@
     "category": "Informaint",
     "server": "JIO TV ",
     "switch": "✅"
+  },
+  {
+    "id": "088",
+    "name": "Epic TV",
+    "category": "Informaint",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
