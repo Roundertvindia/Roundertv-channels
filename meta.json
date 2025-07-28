@@ -502,5 +502,40 @@
     "category": "Kids",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "073",
+    "name": "Pogo",
+    "category": "Kids",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "074",
+    "name": "Cartoon Network",
+    "category": "Kids",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "075",
+    "name": "Super Hungama",
+    "category": "Kids",
+    "server": "Tplay",
+    "switch": "✅"
+  },
+  {
+    "id": "076",
+    "name": "Hungama",
+    "category": "Kids",
+    "server": "Bang",
+    "switch": "✅"
+  },
+  {
+    "id": "077",
+    "name": "Disney",
+    "category": "Kids",
+    "server": "Tplay",
+    "switch": "✅"
   }
 ]
