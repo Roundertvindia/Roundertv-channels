@@ -964,5 +964,33 @@
     "category": "Bengali",
     "server": "Zee5",
     "switch": "✅"
+  },
+  {
+    "id": "139",
+    "name": "Colors Bangla Movies",
+    "category": "Bengali",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "140",
+    "name": "Sangeet Bangla",
+    "category": "Bengali",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "141",
+    "name": "Dhoom Music",
+    "category": "Bengali",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "142",
+    "name": "Nick Bangla",
+    "category": "Bengali",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
