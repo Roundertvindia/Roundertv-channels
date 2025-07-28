@@ -1048,5 +1048,33 @@
     "category": "Odia",
     "server": "No Server",
     "switch": "❌"
+  },
+  {
+    "id": "151",
+    "name": "Colors Odia",
+    "category": "Odia",
+    "server": "No Server",
+    "switch": "❌"
+  },
+  {
+    "id": "152",
+    "name": "Zee Sarthak",
+    "category": "Odia",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "153",
+    "name": "Tarang TV",
+    "category": "Odia",
+    "server": "Starshare",
+    "switch": "✅"
+  },
+  {
+    "id": "154",
+    "name": "Tarang TV",
+    "category": "Odia",
+    "server": "Starshare",
+    "switch": "✅"
   }
 ]
