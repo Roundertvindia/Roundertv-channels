@@ -376,5 +376,40 @@
     "category": "Movies",
     "server": "Zee5",
     "switch": "✅"
+  },
+  {
+    "id": "055",
+    "name": "Colors Infinity",
+    "category": "Movies",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "056",
+    "name": "Colors Cineplex",
+    "category": "Movies",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "057",
+    "name": "Colors Cineplex HD",
+    "category": "Movies",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "058",
+    "name": "Colors Cineplex Bollywood",
+    "category": "Movies",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "059",
+    "name": "Colors Cineplex Superhit",
+    "category": "Movies",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
