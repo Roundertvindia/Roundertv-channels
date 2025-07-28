@@ -908,5 +908,26 @@
     "category": "Bengali",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "131",
+    "name": "Kolkata TV",
+    "category": "Bengali",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "132",
+    "name": "Star Jalsa",
+    "category": "Bengali",
+    "server": "Tplay",
+    "switch": "✅"
+  },
+  {
+    "id": "133",
+    "name": "Zee Bangla",
+    "category": "Bengali",
+    "server": "Zee5",
+    "switch": "✅"
   }
 ]
