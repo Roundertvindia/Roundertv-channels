@@ -577,7 +577,7 @@
     "id": "083",
     "name": "Doraemon 24x7",
     "category": "Kids",
-    "server": "Jdjd",
+    "server": "Star Share",
     "switch": "✅"
   },
   {
@@ -599,6 +599,13 @@
     "name": "Tom & Jerry",
     "category": "Kids",
     "server": "Opplex ",
+    "switch": "✅"
+  },
+  {
+    "id": "087",
+    "name": "History TV 18",
+    "category": "Informaint",
+    "server": "",
     "switch": "✅"
   }
 ]
