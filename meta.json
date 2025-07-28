@@ -656,5 +656,12 @@
     "category": "Sports",
     "server": "Locally",
     "switch": "✅"
+  },
+  {
+    "id": "095",
+    "name": "Star Sports 1 HD",
+    "category": "Sports",
+    "server": "Tplay",
+    "switch": "✅"
   }
 ]
