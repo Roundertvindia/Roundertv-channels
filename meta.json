@@ -306,5 +306,12 @@
     "category": "Movies",
     "server": "Sony Liv",
     "switch": "✅"
+  },
+  {
+    "id": "045",
+    "name": "Sony Max HD",
+    "category": "Movies",
+    "server": "Sony Liv",
+    "switch": "✅"
   }
 ]
