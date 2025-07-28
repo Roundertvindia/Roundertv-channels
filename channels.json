@@ -1,6 +1,350 @@
 [
   {
     "id": "001",
-    "url": "Vtv"
+    "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
+  },
+  {
+    "id": "002",
+    "url": "https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master_720.m3u8"
+  },
+  {
+    "id": "003",
+    "url": "https://vaibhav.freelivtv.xyz/app/ts_live_498.m3u8"
+  },
+  {
+    "id": "004",
+    "url": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8"
+  },
+  {
+    "id": "005",
+    "url": "https://feeds.intoday.in/hltapps/api/master.m3u8"
+  },
+  {
+    "id": "006",
+    "url": "https://vaibhav.freelivtv.xyz/app/ts_live_258.m3u8"
+  },
+  {
+    "id": "007",
+    "url": "https://vaibhav.freelivtv.xyz/app/ts_live_255.m3u8"
+  },
+  {
+    "id": "008",
+    "url": "https://vaibhav.freelivtv.xyz/app/ts_live_499.m3u8"
+  },
+  {
+    "id": "009",
+    "url": "https://vaibhav.freelivtv.xyz/app/ts_live_501.m3u8"
+  },
+  {
+    "id": "010",
+    "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=3724000.m3u8"
+  },
+  {
+    "id": "011",
+    "url": "https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8"
+  },
+  {
+    "id": "012",
+    "url": "https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8"
+  },
+  {
+    "id": "013",
+    "url": "https://d31s6sxcz6vnac.cloudfront.net/index_3.m3u8"
+  },
+  {
+    "id": "014",
+    "url": "https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8"
+  },
+  {
+    "id": "015",
+    "url": "https://d1ek9hdbw9xxcw.cloudfront.net/index_4.m3u8"
+  },
+  {
+    "id": "016",
+    "url": "https://duw35ict5q7th.cloudfront.net/index_3.m3u8"
+  },
+  {
+    "id": "017",
+    "url": "https://dwby15d04agvq.cloudfront.net/index_5.m3u8"
+  },
+  {
+    "id": "018",
+    "url": "https://feeds.intoday.in/gnt/api/master.m3u8"
+  },
+  {
+    "id": "019",
+    "url": "https://vaibhav.freelivtv.xyz/app/ts_live_203.m3u8"
+  },
+  {
+    "id": "020",
+    "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8"
+  },
+  {
+    "id": "021",
+    "url": "https://freelivtv.xyz/app/tplay.m3u8?id=8"
+  },
+  {
+    "id": "022",
+    "url": "https://freelivtv.xyz/app/tplay.m3u8?id=244"
+  },
+  {
+    "id": "023",
+    "url": "By Zee5 "
+  },
+  {
+    "id": "024",
+    "url": "https://vaibhav.freelivtv.xyz/app/ts_live_144.m3u8"
+  },
+  {
+    "id": "025",
+    "url": "By Zee5"
+  },
+  {
+    "id": "026",
+    "url": "Jssh"
+  },
+  {
+    "id": "027",
+    "url": "By Sony Liv"
+  },
+  {
+    "id": "028",
+    "url": "By Sony Liv"
+  },
+  {
+    "id": "029",
+    "url": "By Sony Liv"
+  },
+  {
+    "id": "030",
+    "url": "By Zee5 "
+  },
+  {
+    "id": "031",
+    "url": "https://vaibhav.freelivtv.xyz/app/ts_live_279.m3u8"
+  },
+  {
+    "id": "032",
+    "url": "https://freelivtv.xyz/app/tplay.m3u8?id=551"
+  },
+  {
+    "id": "033",
+    "url": "By Zee5 "
+  },
+  {
+    "id": "034",
+    "url": "https://vaibhav.freelivtv.xyz/app/ts_live_701.m3u8"
+  },
+  {
+    "id": "035",
+    "url": "https://vaibhav.freelivtv.xyz/app/ts_live_1961.m3u8"
+  },
+  {
+    "id": "036",
+    "url": "https://vaibhav.freelivtv.xyz/app/ts_live_2078.m3u8"
+  },
+  {
+    "id": "037",
+    "url": "https://vaibhav.freelivtv.xyz/app/ts_live_202.m3u8"
+  },
+  {
+    "id": "038",
+    "url": "Js"
+  },
+  {
+    "id": "039",
+    "url": "G"
+  },
+  {
+    "id": "040",
+    "url": "H"
+  },
+  {
+    "id": "041",
+    "url": "Igig"
+  },
+  {
+    "id": "042",
+    "url": "Jcc"
+  },
+  {
+    "id": "043",
+    "url": "Opplex"
+  },
+  {
+    "id": "044",
+    "url": "By Sony Liv"
+  },
+  {
+    "id": "045",
+    "url": "By Sony Liv"
+  },
+  {
+    "id": "046",
+    "url": "By Sony Liv"
+  },
+  {
+    "id": "047",
+    "url": "By Sony Liv"
+  },
+  {
+    "id": "048",
+    "url": "By Sony Liv"
+  },
+  {
+    "id": "049",
+    "url": "By Zee5"
+  },
+  {
+    "id": "050",
+    "url": "By Zee5"
+  },
+  {
+    "id": "051",
+    "url": "By Zee5"
+  },
+  {
+    "id": "052",
+    "url": "By Zee5"
+  },
+  {
+    "id": "053",
+    "url": "By Zee5"
+  },
+  {
+    "id": "054",
+    "url": "By Zee5"
+  },
+  {
+    "id": "055",
+    "url": "jdhd"
+  },
+  {
+    "id": "056",
+    "url": "Hdjd"
+  },
+  {
+    "id": "057",
+    "url": "Djd"
+  },
+  {
+    "id": "058",
+    "url": "Jdjd"
+  },
+  {
+    "id": "059",
+    "url": "Hdjd"
+  },
+  {
+    "id": "060",
+    "url": "Jdjd"
+  },
+  {
+    "id": "061",
+    "url": "Jdjd"
+  },
+  {
+    "id": "062",
+    "url": "Jdjd"
+  },
+  {
+    "id": "063",
+    "url": "Hdjd"
+  },
+  {
+    "id": "064",
+    "url": "Jdjdj"
+  },
+  {
+    "id": "065",
+    "url": "Hdbdbd"
+  },
+  {
+    "id": "066",
+    "url": "Jdjdj"
+  },
+  {
+    "id": "067",
+    "url": "Dhd"
+  },
+  {
+    "id": "068",
+    "url": "Jdjd"
+  },
+  {
+    "id": "069",
+    "url": "Djdhd"
+  },
+  {
+    "id": "070",
+    "url": "Sjjd"
+  },
+  {
+    "id": "071",
+    "url": "By Zee5"
+  },
+  {
+    "id": "072",
+    "url": "Hdjd"
+  },
+  {
+    "id": "073",
+    "url": "Djdh"
+  },
+  {
+    "id": "074",
+    "url": "Hdhd"
+  },
+  {
+    "id": "075",
+    "url": "Jdjdj"
+  },
+  {
+    "id": "076",
+    "url": "Djdj"
+  },
+  {
+    "id": "077",
+    "url": "Hdhd"
+  },
+  {
+    "id": "078",
+    "url": "By Sony Liv"
+  },
+  {
+    "id": "079",
+    "url": "Jdjd"
+  },
+  {
+    "id": "080",
+    "url": "H"
+  },
+  {
+    "id": "081",
+    "url": "Jdj"
+  },
+  {
+    "id": "082",
+    "url": "Jdjd"
+  },
+  {
+    "id": "083",
+    "url": "Jdjd"
+  },
+  {
+    "id": "084",
+    "url": "Djdj"
+  },
+  {
+    "id": "085",
+    "url": "Hdjdj"
+  },
+  {
+    "id": "086",
+    "url": "Hdhd"
+  },
+  {
+    "id": "087",
+    "url": "Jdj"
   }
-]
+    ]
