@@ -341,5 +341,12 @@
     "category": "Movies",
     "server": "Zee5",
     "switch": "✅"
+  },
+  {
+    "id": "050",
+    "name": "Zee Bollywood",
+    "category": "Movies",
+    "server": "Zee5",
+    "switch": "✅"
   }
 ]
