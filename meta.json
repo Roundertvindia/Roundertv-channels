@@ -852,5 +852,33 @@
     "category": "Punjabi",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "123",
+    "name": "PTC Chakde",
+    "category": "Punjabi",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "124",
+    "name": "PTC Music",
+    "category": "Punjabi",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "125",
+    "name": "PTC Simran",
+    "category": "Punjabi",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "126",
+    "name": "Punjabi Hits",
+    "category": "Punjabi",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
