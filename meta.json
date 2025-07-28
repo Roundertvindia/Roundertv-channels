@@ -481,5 +481,12 @@
     "category": "Music",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "070",
+    "name": "Show Box TV",
+    "category": "Music",
+    "server": "Home W.S",
+    "switch": "✅"
   }
 ]
