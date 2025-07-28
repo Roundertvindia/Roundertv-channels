@@ -215,5 +215,40 @@
     "category": "Entertainment",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "032",
+    "name": "Star Utsav",
+    "category": "Entertainment",
+    "server": "Tplay",
+    "switch": "✅"
+  },
+  {
+    "id": "033",
+    "name": "Zee Anmol",
+    "category": "Entertainment",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "034",
+    "name": "Dangal",
+    "category": "Entertainment",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "035",
+    "name": "Shemaro TV",
+    "category": "Entertainment",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "036",
+    "name": "Shemaro umag",
+    "category": "Entertainment",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
