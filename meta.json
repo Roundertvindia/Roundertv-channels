@@ -712,5 +712,33 @@
     "category": "Sports",
     "server": "Sony Liv",
     "switch": "✅"
+  },
+  {
+    "id": "103",
+    "name": "Sony Sports Ten 3",
+    "category": "Sports",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "104",
+    "name": "Sony Sports Ten 4",
+    "category": "Sports",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "105",
+    "name": "Sony Sports Ten 5",
+    "category": "Sports",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "106",
+    "name": "Aastha",
+    "category": "Devotional",
+    "server": "Home W.S",
+    "switch": "✅"
   }
 ]
