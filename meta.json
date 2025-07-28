@@ -778,7 +778,14 @@
   },
   {
     "id": "112",
-    "name": "Shubh TV",
+    "name": "jio",
+    "category": "Devotional",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "112",
+    "name": "Kripa TV",
     "category": "Devotional",
     "server": "JIO TV",
     "switch": "✅"
