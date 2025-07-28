@@ -894,5 +894,12 @@
     "category": "Bengali",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "129",
+    "name": "Zee 24 Ghanta",
+    "category": "Bengali",
+    "server": "Home W.S",
+    "switch": "✅"
   }
 ]
