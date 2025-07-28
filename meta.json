@@ -145,5 +145,33 @@
     "category": "Entertainment",
     "server": "Tplay",
     "switch": "✅"
+  },
+  {
+    "id": "022",
+    "name": "Star Bharat",
+    "category": "Entertainment",
+    "server": "Tplay",
+    "switch": "✅"
+  },
+  {
+    "id": "023",
+    "name": "Zee TV",
+    "category": "Entertainment",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "024",
+    "name": "Colors HD",
+    "category": "Entertainment",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "025",
+    "name": "&tv",
+    "category": "Entertainment",
+    "server": "Zee5",
+    "switch": "✅"
   }
 ]
