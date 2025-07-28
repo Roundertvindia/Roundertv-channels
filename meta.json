@@ -698,5 +698,40 @@
     "category": "Sports",
     "server": "Tplay",
     "switch": "✅"
+  },
+  {
+    "id": "101",
+    "name": "Star Sports Select 2",
+    "category": "Sports",
+    "server": "Tplay",
+    "switch": "✅"
+  },
+  {
+    "id": "102",
+    "name": "Sony Sports Ten 1",
+    "category": "Sports",
+    "server": "Jdjs",
+    "switch": "✅"
+  },
+  {
+    "id": "103",
+    "name": "Sony Sports Ten 2",
+    "category": "Sports",
+    "server": "Jsjs",
+    "switch": "✅"
+  },
+  {
+    "id": "104",
+    "name": "Sony Sports Ten 3",
+    "category": "Sports",
+    "server": "Jsjsj",
+    "switch": "✅"
+  },
+  {
+    "id": "105",
+    "name": "Sony Sports Ten 4",
+    "category": "Sports",
+    "server": "Jdjs",
+    "switch": "✅"
   }
 ]
