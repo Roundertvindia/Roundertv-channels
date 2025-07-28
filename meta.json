@@ -33,5 +33,12 @@
     "category": "News",
     "server": "Zee5 W.S",
     "switch": "✅"
+  },
+  {
+    "id": "006",
+    "name": "NDTV India",
+    "category": "News",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
