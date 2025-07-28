@@ -12,5 +12,12 @@
     "category": "News",
     "server": "W.S",
     "switch": "✅"
+  },
+  {
+    "id": "003",
+    "name": "India News",
+    "category": "News",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
