@@ -68,5 +68,12 @@
     "category": "News",
     "server": "Voot W.S",
     "switch": "✅"
+  },
+  {
+    "id": "011",
+    "name": "Zee News",
+    "category": "News",
+    "server": "Zee5 W.S",
+    "switch": "✅"
   }
 ]
