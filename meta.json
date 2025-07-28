@@ -817,5 +817,40 @@
     "category": "Punjabi",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "118",
+    "name": "MH1",
+    "category": "Punjabi",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "119",
+    "name": "Garv Punjab Gurbani",
+    "category": "Punjabi",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "120",
+    "name": "Pitara",
+    "category": "Punjabi",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "121",
+    "name": "PTC News",
+    "category": "Punjabi",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "122",
+    "name": "PTC Punjabi",
+    "category": "Punjabi",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
