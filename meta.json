@@ -285,5 +285,12 @@
     "category": "Movies",
     "server": "Opplex",
     "switch": "✅"
+  },
+  {
+    "id": "042",
+    "name": "Star Gold Thrills",
+    "category": "Movies",
+    "server": "No Server",
+    "switch": "❌"
   }
 ]
