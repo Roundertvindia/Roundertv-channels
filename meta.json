@@ -1160,5 +1160,33 @@
     "category": "Marathi",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "167",
+    "name": "Sony Marathi",
+    "category": "Marathi",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "168",
+    "name": "Zee Talkies",
+    "category": "Marathi",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "169",
+    "name": "9X Jhakkas",
+    "category": "Marathi",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "170",
+    "name": "Sangeet Marathi",
+    "category": "Marathi",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
