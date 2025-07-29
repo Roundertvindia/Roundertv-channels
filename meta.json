@@ -1650,5 +1650,33 @@
     "category": "Malyalam",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "237",
+    "name": "Janam TV",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "238",
+    "name": "Jeevan TV",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "239",
+    "name": "Kairali TV",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "240",
+    "name": "Kaumudy TV",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
