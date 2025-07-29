@@ -1090,5 +1090,12 @@
     "category": "Odia",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "157",
+    "name": "ABP majha",
+    "category": "Marathi",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
