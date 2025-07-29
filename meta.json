@@ -1104,5 +1104,33 @@
     "category": "Marathi",
     "server": "Zee5",
     "switch": "✅"
+  },
+  {
+    "id": "159",
+    "name": "News 18 Lokmat",
+    "category": "Marathi",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "160",
+    "name": "TV9 Marathi",
+    "category": "Marathi",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "161",
+    "name": "Jai Maharashtra",
+    "category": "Marathi",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "162",
+    "name": "Saam TV",
+    "category": "Marathi",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
