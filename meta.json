@@ -1097,5 +1097,12 @@
     "category": "Marathi",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "158",
+    "name": "Zee 24 Taas",
+    "category": "Marathi",
+    "server": "Zee5",
+    "switch": "✅"
   }
 ]
