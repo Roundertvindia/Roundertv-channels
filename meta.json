@@ -1300,5 +1300,152 @@
     "category": "Telugu",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "187",
+    "name": "I News",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "188",
+    "name": "10 TV",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "189",
+    "name": "V6 News",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "190",
+    "name": "T News",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "191",
+    "name": "CVR News",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "192",
+    "name": "TV9 Telugu News",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "193",
+    "name": "ETV Telugu",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "194",
+    "name": "ETV Plus",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "195",
+    "name": "ETV Abhiruchi",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "196",
+    "name": "Star Maa",
+    "category": "Telugu",
+    "server": "Starshare",
+    "switch": "❌"
+  },
+  {
+    "id": "197",
+    "name": "Zee Telugu",
+    "category": "Telugu",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "198",
+    "name": "Gemini TV",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "199",
+    "name": "Gemini Comedy",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "200",
+    "name": "Gemini Comedy",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "201",
+    "name": "ETV Cinema",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "202",
+    "name": "Gemini Movies",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "203",
+    "name": "Zee Cinemalu",
+    "category": "Telugu",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "204",
+    "name": "Star Maa Movies",
+    "category": "Telugu",
+    "server": "Starshare",
+    "switch": "✅"
+  },
+  {
+    "id": "205",
+    "name": "ETV Life",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "206",
+    "name": "Pogo",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "207",
+    "name": "Cartoon Network",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
