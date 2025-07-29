@@ -1454,5 +1454,12 @@
     "category": "Gujrati",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "209",
+    "name": "TV9 Gujrati",
+    "category": "Gujrati",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
