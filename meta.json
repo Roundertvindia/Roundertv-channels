@@ -1222,7 +1222,7 @@
     "name": "Zee Tamil",
     "category": "Tamil",
     "server": "Zee5",
-    "switch": "✅"
+    "switch": "❌"
   },
   {
     "id": "176",
@@ -1243,7 +1243,7 @@
     "name": "Mega TV",
     "category": "Tamil",
     "server": "Tplay",
-    "switch": "✅"
+    "switch": "❌"
   },
   {
     "id": "179",
@@ -1291,6 +1291,13 @@
     "id": "185",
     "name": "Sun Music",
     "category": "Tamil",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "186",
+    "name": "Big TV",
+    "category": "Telugu",
     "server": "JIO TV",
     "switch": "✅"
   }
