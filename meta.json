@@ -1482,5 +1482,19 @@
     "category": "Gujrati",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "213",
+    "name": "Colors Gujrati",
+    "category": "Gujrati",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "214",
+    "name": "Colors Gujarati Cinema",
+    "category": "Gujrati",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
