@@ -1734,5 +1734,12 @@
     "category": "Malyalam",
     "server": "Zee5",
     "switch": "❌"
+  },
+  {
+    "id": "249",
+    "name": "Flowers TV",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
