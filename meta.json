@@ -1713,5 +1713,26 @@
     "category": "Malyalam",
     "server": "Starshare",
     "switch": "❌"
+  },
+  {
+    "id": "246",
+    "name": "Asianet Plus",
+    "category": "Malyalam",
+    "server": "Tplay",
+    "switch": "❌"
+  },
+  {
+    "id": "247",
+    "name": "Surya HD",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "248",
+    "name": "Zee Keralam HD",
+    "category": "Malyalam",
+    "server": "Zee5",
+    "switch": "❌"
   }
 ]
