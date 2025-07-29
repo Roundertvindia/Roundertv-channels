@@ -1566,5 +1566,40 @@
     "category": "Kannada",
     "server": "Zee5",
     "switch": "✅"
+  },
+  {
+    "id": "225",
+    "name": "Colors Kannada",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "226",
+    "name": "Colors Super",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "227",
+    "name": "Udaya HD",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "228",
+    "name": "Siri Kannada",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "229",
+    "name": "Zee Picchar",
+    "category": "Kannada",
+    "server": "Zee5",
+    "switch": "✅"
   }
 ]
