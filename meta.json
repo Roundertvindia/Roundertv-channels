@@ -1706,5 +1706,12 @@
     "category": "Malyalam",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "245",
+    "name": "Asianet HD",
+    "category": "Malyalam",
+    "server": "Starshare",
+    "switch": "❌"
   }
 ]
