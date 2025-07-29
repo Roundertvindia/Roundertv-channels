@@ -1132,5 +1132,33 @@
     "category": "Marathi",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "163",
+    "name": "MKN News",
+    "category": "Marathi",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "164",
+    "name": "Star Pravah",
+    "category": "Marathi",
+    "server": "Tplay",
+    "switch": "✅"
+  },
+  {
+    "id": "165",
+    "name": "Zee Marathi HD",
+    "category": "Marathi",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "166",
+    "name": "Colors Marathi",
+    "category": "Marathi",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
