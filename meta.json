@@ -1496,5 +1496,12 @@
     "category": "Gujrati",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "215",
+    "name": "TV9 Kannada",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
