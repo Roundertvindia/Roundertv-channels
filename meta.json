@@ -1839,5 +1839,26 @@
     "category": "Pakistani",
     "server": "Opplex",
     "switch": "✅"
+  },
+  {
+    "id": "264",
+    "name": "Sama TV",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "265",
+    "name": "Bol News",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "266",
+    "name": "92 News HD",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "✅"
   }
 ]
