@@ -1558,7 +1558,7 @@
     "name": "Star Suvarna",
     "category": "Kannada",
     "server": "Tplay",
-    "switch": "✅"
+    "switch": "❌"
   },
   {
     "id": "224",
@@ -1633,6 +1633,13 @@
   {
     "id": "234",
     "name": "Raj Music",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "235",
+    "name": "Public Music",
     "category": "Kannada",
     "server": "JIO TV",
     "switch": "✅"
