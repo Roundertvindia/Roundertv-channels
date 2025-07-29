@@ -1145,14 +1145,14 @@
     "name": "Star Pravah",
     "category": "Marathi",
     "server": "Starshare",
-    "switch": "✅"
+    "switch": "❌"
   },
   {
     "id": "165",
     "name": "Zee Marathi HD",
     "category": "Marathi",
     "server": "Zee5",
-    "switch": "✅"
+    "switch": "❌"
   },
   {
     "id": "166",
@@ -1166,14 +1166,14 @@
     "name": "Sony Marathi",
     "category": "Marathi",
     "server": "Sony Liv",
-    "switch": "✅"
+    "switch": "❌"
   },
   {
     "id": "168",
     "name": "Zee Talkies",
     "category": "Marathi",
     "server": "Zee5",
-    "switch": "✅"
+    "switch": "❌"
   },
   {
     "id": "169",
@@ -1186,6 +1186,20 @@
     "id": "170",
     "name": "Sangeet Marathi",
     "category": "Marathi",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "171",
+    "name": "Sun News",
+    "category": "Tamil",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "172",
+    "name": "News Tamil 24x7",
+    "category": "Tamil",
     "server": "JIO TV",
     "switch": "✅"
   }
