@@ -1401,50 +1401,50 @@
   },
   {
     "id": "201",
-    "name": "ETV Cinema",
-    "category": "Telugu",
-    "server": "JIO TV",
-    "switch": "✅"
-  },
-  {
-    "id": "202",
     "name": "Gemini Movies",
     "category": "Telugu",
     "server": "JIO TV",
     "switch": "✅"
   },
   {
-    "id": "203",
+    "id": "202",
     "name": "Zee Cinemalu",
     "category": "Telugu",
     "server": "Zee5",
     "switch": "✅"
   },
   {
-    "id": "204",
+    "id": "203",
     "name": "Star Maa Movies",
     "category": "Telugu",
     "server": "Starshare",
     "switch": "✅"
   },
   {
-    "id": "205",
+    "id": "204",
     "name": "ETV Life",
     "category": "Telugu",
     "server": "JIO TV",
     "switch": "✅"
   },
   {
-    "id": "206",
+    "id": "205",
     "name": "Pogo",
     "category": "Telugu",
     "server": "JIO TV",
     "switch": "✅"
   },
   {
-    "id": "207",
+    "id": "206",
     "name": "Cartoon Network",
     "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "207",
+    "name": "Cartoon",
+    "category": "Gujrati",
     "server": "JIO TV",
     "switch": "✅"
   }
