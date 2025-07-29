@@ -1601,5 +1601,33 @@
     "category": "Kannada",
     "server": "Zee5",
     "switch": "✅"
+  },
+  {
+    "id": "230",
+    "name": "Colors Cinema",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "231",
+    "name": "Udaya Movies",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "232",
+    "name": "Public Movies",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "233",
+    "name": "Udaya Music",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
