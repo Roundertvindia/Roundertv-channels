@@ -1222,7 +1222,7 @@
     "name": "Zee Tamil",
     "category": "Tamil",
     "server": "Zee5",
-    "switch": "❌"
+    "switch": "✅"
   },
   {
     "id": "176",
@@ -1243,7 +1243,7 @@
     "name": "Mega TV",
     "category": "Tamil",
     "server": "Tplay",
-    "switch": "❌"
+    "switch": "✅"
   },
   {
     "id": "179",
@@ -1369,14 +1369,14 @@
     "name": "Star Maa",
     "category": "Telugu",
     "server": "Starshare",
-    "switch": "❌"
+    "switch": "✅"
   },
   {
     "id": "197",
     "name": "Zee Telugu",
     "category": "Telugu",
     "server": "Zee5",
-    "switch": "❌"
+    "switch": "✅"
   },
   {
     "id": "198",
@@ -1411,14 +1411,14 @@
     "name": "Zee Cinemalu",
     "category": "Telugu",
     "server": "Zee5",
-    "switch": "❌"
+    "switch": "✅"
   },
   {
     "id": "203",
     "name": "Star Maa Movies",
     "category": "Telugu",
     "server": "Starshare",
-    "switch": "❌"
+    "switch": "✅"
   },
   {
     "id": "204",
@@ -1558,14 +1558,14 @@
     "name": "Star Suvarna",
     "category": "Kannada",
     "server": "Tplay",
-    "switch": "❌"
+    "switch": "✅"
   },
   {
     "id": "224",
     "name": "Zee Kannada",
     "category": "Kannada",
     "server": "Zee5",
-    "switch": "❌"
+    "switch": "✅"
   },
   {
     "id": "225",
@@ -1600,7 +1600,7 @@
     "name": "Zee Picchar",
     "category": "Kannada",
     "server": "Zee5",
-    "switch": "❌"
+    "switch": "✅"
   },
   {
     "id": "230",
