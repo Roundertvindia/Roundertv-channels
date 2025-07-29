@@ -1711,15 +1711,15 @@
     "id": "245",
     "name": "Asianet HD",
     "category": "Malyalam",
-    "server": "Tplay",
-    "switch": "✅"
+    "server": "Starshare",
+    "switch": "❌"
   },
   {
     "id": "246",
     "name": "Asianet Plus",
     "category": "Malyalam",
     "server": "Tplay",
-    "switch": "✅"
+    "switch": "❌"
   },
   {
     "id": "247",
@@ -1733,7 +1733,7 @@
     "name": "Zee Keralam HD",
     "category": "Malyalam",
     "server": "Zee5",
-    "switch": "✅"
+    "switch": "❌"
   },
   {
     "id": "249",
@@ -1789,7 +1789,7 @@
     "name": "Asianet Movies",
     "category": "Malyalam",
     "server": "Tplay",
-    "switch": "✅"
+    "switch": "❌"
   },
   {
     "id": "257",
