@@ -1811,5 +1811,12 @@
     "category": "Malyalam",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "260",
+    "name": "Geo News",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "✅"
   }
 ]
