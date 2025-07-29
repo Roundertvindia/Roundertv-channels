@@ -1565,7 +1565,7 @@
     "name": "Zee Kannada",
     "category": "Kannada",
     "server": "Zee5",
-    "switch": "✅"
+    "switch": "❌"
   },
   {
     "id": "225",
@@ -1600,7 +1600,7 @@
     "name": "Zee Picchar",
     "category": "Kannada",
     "server": "Zee5",
-    "switch": "✅"
+    "switch": "❌"
   },
   {
     "id": "230",
@@ -1641,6 +1641,13 @@
     "id": "235",
     "name": "Public Music",
     "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "236",
+    "name": "News 18 Kerala",
+    "category": "Malyalam",
     "server": "JIO TV",
     "switch": "✅"
   }
