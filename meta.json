@@ -1265,5 +1265,33 @@
     "category": "Tamil",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "182",
+    "name": "J. Movies",
+    "category": "Tamil",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "183",
+    "name": "KTV",
+    "category": "Tamil",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "184",
+    "name": "Raaj Music",
+    "category": "Tamil",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "185",
+    "name": "Sun Music",
+    "category": "Tamil",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
