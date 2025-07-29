@@ -1753,7 +1753,7 @@
     "id": "251",
     "name": "Kairali TV",
     "category": "Malyalam",
-    "server": "noooo",
+    "server": "JIO TV",
     "switch": "✅"
   },
   {
@@ -1943,13 +1943,6 @@
     "name": "8XM",
     "category": "Pakistani",
     "server": "Opplex",
-    "switch": "✅"
-  },
-  {
-    "id": "279",
-    "name": "Discovery Kids",
-    "category": "Kids",
-    "server": "JIO TV",
     "switch": "✅"
   }
 ]
