@@ -1741,5 +1741,40 @@
     "category": "Malyalam",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "250",
+    "name": "Mazhavil Manoranjan",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "251",
+    "name": "Kairali TV",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "252",
+    "name": "Amrita TV",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "253",
+    "name": "We TV",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "254",
+    "name": "Safari TV",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
