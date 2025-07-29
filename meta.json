@@ -1230,5 +1230,40 @@
     "category": "Tamil",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "177",
+    "name": "Sun TV",
+    "category": "Tamil",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "178",
+    "name": "Mega TV",
+    "category": "Tamil",
+    "server": "Tplay",
+    "switch": "✅"
+  },
+  {
+    "id": "179",
+    "name": "Kalaignar TV",
+    "category": "Tamil",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "180",
+    "name": "Puthuyougam TV",
+    "category": "Tamil",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "181",
+    "name": "Sun Life",
+    "category": "Tamil",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
