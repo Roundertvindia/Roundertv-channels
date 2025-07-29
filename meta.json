@@ -1510,5 +1510,33 @@
     "category": "Kannada",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "217",
+    "name": "Public TV",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "218",
+    "name": "News 18 Kannada",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "219",
+    "name": "TV5",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "220",
+    "name": "Raj News",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
