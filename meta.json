@@ -528,7 +528,7 @@
     "id": "076",
     "name": "Hungama",
     "category": "Kids",
-    "server": "Line. rs",
+    "server": "Line.rs",
     "switch": "✅"
   },
   {
@@ -584,8 +584,8 @@
     "id": "084",
     "name": "Shinchan 24x7",
     "category": "Kids",
-    "server": "Star share",
-    "switch": "✅"
+    "server": "No Server",
+    "switch": "❌"
   },
   {
     "id": "085",
@@ -682,7 +682,7 @@
     "id": "098",
     "name": "Star Sports Khel",
     "category": "Sports",
-    "server": "JIO TV",
+    "server": "BANG",
     "switch": "✅"
   },
   {
@@ -1067,15 +1067,15 @@
     "id": "153",
     "name": "Tarang TV",
     "category": "Odia",
-    "server": "Starshare",
-    "switch": "✅"
+    "server": "No Server",
+    "switch": "❌"
   },
   {
     "id": "154",
     "name": "Tarang Music",
     "category": "Odia",
-    "server": "No Server",
-    "switch": "❌"
+    "server": "Line.rs",
+    "switch": "✅"
   },
   {
     "id": "155",
@@ -1144,7 +1144,7 @@
     "id": "164",
     "name": "Star Pravah",
     "category": "Marathi",
-    "server": "Starshare",
+    "server": "Line.rs",
     "switch": "✅"
   },
   {
@@ -1943,6 +1943,13 @@
     "name": "8XM",
     "category": "Pakistani",
     "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "279",
+    "name": "Discovery Kids",
+    "category": "Kids",
+    "server": "JIO TV",
     "switch": "✅"
   }
 ]
