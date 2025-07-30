@@ -1719,7 +1719,7 @@
     "name": "Asianet Plus",
     "category": "Malyalam",
     "server": "Tplay",
-    "switch": "❌"
+    "switch": "✅"
   },
   {
     "id": "247",
@@ -1733,7 +1733,7 @@
     "name": "Zee Keralam HD",
     "category": "Malyalam",
     "server": "Zee5",
-    "switch": "❌"
+    "switch": "✅"
   },
   {
     "id": "249",
@@ -1753,8 +1753,8 @@
     "id": "251",
     "name": "Kairali TV",
     "category": "Malyalam",
-    "server": "JIO TV",
-    "switch": "✅"
+    "server": "No Channels",
+    "switch": "❌"
   },
   {
     "id": "252",
