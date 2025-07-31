@@ -1951,5 +1951,12 @@
     "category": "Kids",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "280",
+    "name": "Zee Punjabi",
+    "category": "Punjabi",
+    "server": "Zee5",
+    "switch": "✅"
   }
 ]
