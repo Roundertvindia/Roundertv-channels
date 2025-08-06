@@ -1958,5 +1958,12 @@
     "category": "Punjabi",
     "server": "Zee5",
     "switch": "✅"
+  },
+  {
+    "id": "281",
+    "name": "Premium",
+    "category": "Pakistani",
+    "server": "Premium",
+    "switch": "✅"
   }
 ]
