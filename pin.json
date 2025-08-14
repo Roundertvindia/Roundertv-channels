@@ -1313,7 +1313,13 @@
   null,
   null,
   null,
-  null,
+  {
+    "code": "1314",
+    "expiry_date": "2025-08-21T11:25:16.621Z",
+    "main_device_id": "device_eq55292wt",
+    "device_id_1": null,
+    "device_id_2": null
+  },
   null,
   null,
   null,
