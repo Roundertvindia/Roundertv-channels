@@ -6,10 +6,10 @@
     "mobile_number": "737367",
     "plan": "@39",
     "expiry_date": "2025-09-17T06:08",
-    "distribution_partner": "yes",
-    "line_1": "Zhzyz",
-    "line_2": "Jshsh",
-    "line_3": "Zhzyz",
+    "distribution_partner": "no",
+    "line_1": null,
+    "line_2": null,
+    "line_3": null,
     "device_id_1": null,
     "device_id_2": null
   }
