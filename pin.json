@@ -236,5 +236,12 @@
     "main_device_id": "device_0o2mc30nj",
     "device_id_1": "device_qjg3qa7gz",
     "device_id_2": null
+  },
+  "9966": {
+    "code": "9966",
+    "expiry_date": "2025-08-25T13:45:43.501Z",
+    "main_device_id": "device_5m5fmejmv",
+    "device_id_1": null,
+    "device_id_2": null
   }
 }
