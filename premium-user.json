@@ -21,12 +21,12 @@
     "password": "1234",
     "mobile_number": "08307124799",
     "plan": "@39",
-    "expiry_date": "2025-08-26T10:34",
+    "expiry_date": "2024-08-26T10:34",
     "distribution_partner": "no",
     "line_1": null,
     "line_2": null,
     "line_3": null,
-    "device_id_1": "device_n3rc13n1",
+    "device_id_1": null,
     "device_id_2": null
   }
 }
