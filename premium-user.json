@@ -1,17 +1,1 @@
-{
-  "162": {
-    "name": "Mukul",
-    "id": "162",
-    "username": "ji",
-    "password": "ji",
-    "mobile_number": "",
-    "plan": "@39",
-    "expiry_date": "2025-09-18T18:35",
-    "distribution_partner": "no",
-    "line_1": null,
-    "line_2": null,
-    "line_3": null,
-    "device_id_1": "device_m9augyms",
-    "device_id_2": "device_n3rc13n1"
-  }
-}
+{}
