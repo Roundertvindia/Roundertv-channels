@@ -73,5 +73,20 @@
     "line_3": null,
     "device_id_1": null,
     "device_id_2": null
+  },
+  "962": {
+    "name": "Nikita",
+    "id": "962",
+    "username": "nikita001",
+    "password": "nikita052",
+    "mobile_number": "7354752509",
+    "plan": "@29",
+    "expiry_date": "2025-09-09T10:34",
+    "distribution_partner": "no",
+    "line_1": null,
+    "line_2": null,
+    "line_3": null,
+    "device_id_1": null,
+    "device_id_2": "device_t4z279nqk8"
   }
 }
