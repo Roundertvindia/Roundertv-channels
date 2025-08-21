@@ -148,20 +148,5 @@
     "line_3": null,
     "device_id_1": "device_88n33idy",
     "device_id_2": "device_t4z279nqk8"
-  },
-  "1755765454440": {
-    "name": "Test",
-    "id": "1755765454440",
-    "username": "sd001",
-    "password": "Test",
-    "mobile_number": "3333",
-    "plan": "@39",
-    "expiry_date": "2024-08-21T08:41",
-    "distribution_partner": "yes",
-    "line_1": "SEPTUNE DISTRIBUTOR",
-    "line_2": "Official Distribution Partner",
-    "line_3": "Agent - Vansh PH :70151 13358 ",
-    "device_id_1": "device_b7f2w6n2",
-    "device_id_2": null
   }
 }
