@@ -44,6 +44,21 @@
     "device_id_1": "device_lrxqqoz0",
     "device_id_2": "device_1zbtyuk0"
   },
+  "308": {
+    "name": "Uttam",
+    "id": "308",
+    "username": "uttam001",
+    "password": "Urgiri5353",
+    "mobile_number": "9932145353",
+    "plan": "@39",
+    "expiry_date": "2025-09-22T13:39",
+    "distribution_partner": "no",
+    "line_1": null,
+    "line_2": null,
+    "line_3": null,
+    "device_id_1": null,
+    "device_id_2": null
+  },
   "475": {
     "name": "Narender",
     "id": "475",
