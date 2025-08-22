@@ -122,8 +122,8 @@
   "810": {
     "name": "Gaurav Tundwal",
     "id": "810",
-    "username": "gaurav003",
-    "password": "gaurav695",
+    "username": "go",
+    "password": "go",
     "mobile_number": "9992268927",
     "plan": "@39",
     "expiry_date": "2025-09-12T16:06",
@@ -131,8 +131,8 @@
     "line_1": null,
     "line_2": null,
     "line_3": null,
-    "device_id_1": "device_0tv7lgb6",
-    "device_id_2": "device_16surinz"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "962": {
     "name": "Nikita",
