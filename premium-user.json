@@ -134,21 +134,6 @@
     "device_id_1": "device_07g2zqf6",
     "device_id_2": "device_sx57eq6g"
   },
-  "810": {
-    "name": "Gaurav Tundwal",
-    "id": "810",
-    "username": "go",
-    "password": "go",
-    "mobile_number": "9992268927",
-    "plan": "@39",
-    "expiry_date": "2025-09-12T16:06",
-    "distribution_partner": "no",
-    "line_1": null,
-    "line_2": null,
-    "line_3": null,
-    "device_id_1": null,
-    "device_id_2": null
-  },
   "928": {
     "name": "Saran P",
     "id": "928",
