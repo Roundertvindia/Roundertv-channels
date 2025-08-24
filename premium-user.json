@@ -119,21 +119,6 @@
     "device_id_1": "device_07g2zqf6",
     "device_id_2": "device_sx57eq6g"
   },
-  "842": {
-    "name": "Karuna",
-    "id": "842",
-    "username": "karuna001",
-    "password": "karuna125",
-    "mobile_number": "9715299921",
-    "plan": "@29",
-    "expiry_date": "2025-08-24T21:30",
-    "distribution_partner": "no",
-    "line_1": null,
-    "line_2": null,
-    "line_3": null,
-    "device_id_1": "device_jh44yc74",
-    "device_id_2": "device_7wy89l5yi4"
-  },
   "928": {
     "name": "Saran P",
     "id": "928",
