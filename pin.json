@@ -251,6 +251,13 @@
     "device_id_1": "device_vmdtxjgzg",
     "device_id_2": "device_zjf9mlxsh"
   },
+  "5223": {
+    "code": "5223",
+    "expiry_date": "2025-08-31T12:14:09.662Z",
+    "main_device_id": "device_lyzeblml",
+    "device_id_1": null,
+    "device_id_2": null
+  },
   "5723": {
     "code": "5723",
     "expiry_date": "2025-08-31T05:42:15.541Z",
