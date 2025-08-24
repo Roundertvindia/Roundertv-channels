@@ -165,18 +165,18 @@
     "device_id_2": "device_t4z279nqk8"
   },
   "1755957137586": {
-    "name": "",
+    "name": "Vasantha Reddy",
     "id": "1755957137586",
     "username": "mc001",
     "password": "1234",
     "mobile_number": "3333",
     "plan": "@39",
-    "expiry_date": "2028-08-23T13:52",
+    "expiry_date": "2028-08-24T05:08",
     "distribution_partner": "yes",
     "line_1": "MAHI COMUNICATIONS",
     "line_2": "Official Distribution Partner",
     "line_3": "Agent - Sudhakar PH : 9441995758",
-    "device_id_1": "device_uls778tk",
+    "device_id_1": null,
     "device_id_2": null
   }
 }
