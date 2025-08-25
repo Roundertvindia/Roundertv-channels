@@ -2028,5 +2028,33 @@
     "category": "Telugu",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "292",
+    "name": "Star Maa Music",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "293",
+    "name": "Gemini Music",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "294",
+    "name": "Gemini Life",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "295",
+    "name": "Khushi TV",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
