@@ -230,6 +230,13 @@
     "device_id_1": "device_zdj1znumz",
     "device_id_2": null
   },
+  "4670": {
+    "code": "4670",
+    "expiry_date": "2025-09-01T05:23:00.758Z",
+    "main_device_id": "device_6gr33bdbt",
+    "device_id_1": null,
+    "device_id_2": null
+  },
   "4767": {
     "code": "4767",
     "expiry_date": "2025-08-30T19:03:23.484Z",
