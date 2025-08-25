@@ -2070,5 +2070,33 @@
     "category": "Telugu",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "298",
+    "name": "SVBC",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "299",
+    "name": "PMC",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "300",
+    "name": "CVR Om Spiritual",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "301",
+    "name": "CVR Health",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
