@@ -1965,5 +1965,12 @@
     "category": "Kannada",
     "server": "Jiotv+",
     "switch": "✅"
+  },
+  {
+    "id": "283",
+    "name": "Sakshi TV",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "❌"
   }
 ]
