@@ -34,6 +34,13 @@
     "device_id_1": "device_d4ci8pl5k",
     "device_id_2": "device_002jfi9ok"
   },
+  "1644": {
+    "code": "1644",
+    "expiry_date": "2025-09-01T21:53:24.999Z",
+    "main_device_id": "device_xmifimy3g",
+    "device_id_1": null,
+    "device_id_2": null
+  },
   "1648": {
     "code": "1648",
     "expiry_date": "2025-08-31T13:19:04.879Z",
