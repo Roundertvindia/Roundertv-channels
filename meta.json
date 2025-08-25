@@ -2098,5 +2098,26 @@
     "category": "Telugu",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "302",
+    "name": "Vanitha TV",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "303",
+    "name": "Subhavartha",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
+  },
+  {
+    "id": "304",
+    "name": "Aradhna",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
