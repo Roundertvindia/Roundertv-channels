@@ -1972,5 +1972,12 @@
     "category": "Telugu",
     "server": "JIO TV",
     "switch": "❌"
+  },
+  {
+    "id": "284",
+    "name": "NTV Telugu",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
