@@ -1993,5 +1993,12 @@
     "category": "Telugu",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "287",
+    "name": "ETV Andhra Pradesh",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "✅"
   }
 ]
