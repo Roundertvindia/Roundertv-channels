@@ -2056,5 +2056,12 @@
     "category": "Telugu",
     "server": "JIO TV",
     "switch": "✅"
+  },
+  {
+    "id": "296",
+    "name": "Star Sports Telugu",
+    "category": "Telugu",
+    "server": "Jiotv+",
+    "switch": "✅"
   }
 ]
