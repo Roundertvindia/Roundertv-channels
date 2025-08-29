@@ -125,6 +125,13 @@
     "device_id_1": "device_xr47osrlo",
     "device_id_2": "device_fmno3ijtk"
   },
+  "2534": {
+    "code": "2534",
+    "expiry_date": "2025-09-05T16:06:50.500Z",
+    "main_device_id": "device_bt5jyvtc9",
+    "device_id_1": null,
+    "device_id_2": null
+  },
   "2746": {
     "code": "2746",
     "expiry_date": "2025-09-01T05:49:07.207Z",
