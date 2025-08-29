@@ -69,6 +69,13 @@
     "device_id_1": "device_sk71rn1hq",
     "device_id_2": "device_ztxlj409p"
   },
+  "1750": {
+    "code": "1750",
+    "expiry_date": "2025-09-05T13:27:36.078Z",
+    "main_device_id": "device_uk52qcz4r",
+    "device_id_1": null,
+    "device_id_2": null
+  },
   "1754": {
     "code": "1754",
     "expiry_date": "2025-08-29T16:37:40.468Z",
