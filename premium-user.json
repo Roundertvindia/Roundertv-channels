@@ -89,21 +89,6 @@
     "device_id_1": null,
     "device_id_2": null
   },
-  "592": {
-    "name": "Test",
-    "id": "592",
-    "username": "test",
-    "password": "test",
-    "mobile_number": "",
-    "plan": "@29",
-    "expiry_date": "2025-09-07T09:23",
-    "distribution_partner": "no",
-    "line_1": null,
-    "line_2": null,
-    "line_3": null,
-    "device_id_1": null,
-    "device_id_2": "device_q92crd1vd9"
-  },
   "618": {
     "name": "Manisha",
     "id": "618",
