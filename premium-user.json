@@ -59,6 +59,21 @@
     "device_id_1": "device_v0mqctan",
     "device_id_2": "device_a4updsyyyu"
   },
+  "401": {
+    "name": "Lucifer",
+    "id": "401",
+    "username": "lucifer829",
+    "password": "5911",
+    "mobile_number": "7056374188",
+    "plan": "@39",
+    "expiry_date": "2026-08-31T08:32",
+    "distribution_partner": "no",
+    "line_1": null,
+    "line_2": null,
+    "line_3": null,
+    "device_id_1": null,
+    "device_id_2": null
+  },
   "434": {
     "name": "Susanta",
     "id": "434",
