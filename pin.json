@@ -118,6 +118,13 @@
     "device_id_1": "device_8fkbd19xx",
     "device_id_2": null
   },
+  "2116": {
+    "code": "2116",
+    "expiry_date": "2025-09-07T15:43:39.992Z",
+    "main_device_id": "device_7ddrppuum",
+    "device_id_1": null,
+    "device_id_2": null
+  },
   "2119": {
     "code": "2119",
     "expiry_date": "2025-08-23T09:02:33.885Z",
