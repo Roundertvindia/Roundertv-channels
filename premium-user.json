@@ -119,21 +119,6 @@
     "device_id_1": "device_yga9n5at",
     "device_id_2": null
   },
-  "637": {
-    "name": "Vaibhav",
-    "id": "637",
-    "username": "vaibhav",
-    "password": "mukul@9050",
-    "mobile_number": "8307124799",
-    "plan": "@29",
-    "expiry_date": "2030-08-28T02:38",
-    "distribution_partner": "no",
-    "line_1": null,
-    "line_2": null,
-    "line_3": null,
-    "device_id_1": "device_n3rc13n1",
-    "device_id_2": "device_zh7m4pmg6j"
-  },
   "680": {
     "name": "Tarun Rathore",
     "id": "680",
