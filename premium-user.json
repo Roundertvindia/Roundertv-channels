@@ -223,20 +223,5 @@
     "line_3": "Agent - Sudhakar PH : 9441995758",
     "device_id_1": "device_ew898xd9",
     "device_id_2": "device_uls778tk"
-  },
-  "1756799117135": {
-    "name": "Test",
-    "id": "1756799117135",
-    "username": "mc003",
-    "password": "5555",
-    "mobile_number": "3333",
-    "plan": "@39",
-    "expiry_date": "2024-09-02T07:45",
-    "distribution_partner": "yes",
-    "line_1": "MAHI COMUNICATIONS",
-    "line_2": "Official Distribution Partner",
-    "line_3": "Agent - Sudhakar PH : 9441995758",
-    "device_id_1": "device_b7f2w6n2",
-    "device_id_2": null
   }
 }
