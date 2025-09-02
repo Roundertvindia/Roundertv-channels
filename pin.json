@@ -230,6 +230,13 @@
     "device_id_1": "device_6kqxvmudu",
     "device_id_2": null
   },
+  "3260": {
+    "code": "3260",
+    "expiry_date": "2025-09-09T09:06:19.403Z",
+    "main_device_id": "device_3nvd0rzan",
+    "device_id_1": null,
+    "device_id_2": null
+  },
   "3407": {
     "code": "3407",
     "expiry_date": "2025-08-30T14:59:43.796Z",
