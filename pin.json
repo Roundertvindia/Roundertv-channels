@@ -482,6 +482,13 @@
     "device_id_1": "device_uce5q5g8s",
     "device_id_2": "device_js9crc8dw"
   },
+  "6056": {
+    "code": "6056",
+    "expiry_date": "2025-09-09T11:44:13.287Z",
+    "main_device_id": "device_45r5un3pe",
+    "device_id_1": null,
+    "device_id_2": null
+  },
   "6124": {
     "code": "6124",
     "expiry_date": "2025-08-29T23:15:21.745Z",
