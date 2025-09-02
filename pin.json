@@ -83,13 +83,6 @@
     "device_id_1": "device_76lbkkaok",
     "device_id_2": "device_mosws28gh"
   },
-  "1884": {
-    "code": "1884",
-    "expiry_date": "2025-08-30T09:00:57.854Z",
-    "main_device_id": "device_z3iomh36k",
-    "device_id_1": null,
-    "device_id_2": null
-  },
   "1916": {
     "code": "1916",
     "expiry_date": "2025-08-26T03:27:20.302Z",
@@ -165,13 +158,6 @@
     "expiry_date": "2025-08-29T17:38:07.765Z",
     "main_device_id": "device_uoh8i3qnv",
     "device_id_1": "device_fe32dhs4b",
-    "device_id_2": null
-  },
-  "2882": {
-    "code": "2882",
-    "expiry_date": "2025-08-28T10:21:46.944Z",
-    "main_device_id": "device_m0tx6uncv",
-    "device_id_1": null,
     "device_id_2": null
   },
   "2915": {
@@ -342,13 +328,6 @@
     "device_id_1": "device_hn8efvbzf",
     "device_id_2": null
   },
-  "4118": {
-    "code": "4118",
-    "expiry_date": "2025-08-23T03:49:58.392Z",
-    "main_device_id": "device_qger9iwh6",
-    "device_id_1": null,
-    "device_id_2": null
-  },
   "4171": {
     "code": "4171",
     "expiry_date": "2025-09-07T04:10:01.812Z",
@@ -397,13 +376,6 @@
     "main_device_id": "device_6gr33bdbt",
     "device_id_1": "device_tkqsbggtg",
     "device_id_2": "device_bqfslwsq2"
-  },
-  "4767": {
-    "code": "4767",
-    "expiry_date": "2025-08-30T19:03:23.484Z",
-    "main_device_id": "device_0t2uf96b2",
-    "device_id_1": null,
-    "device_id_2": null
   },
   "4783": {
     "code": "4783",
@@ -550,13 +522,6 @@
     "expiry_date": "2025-08-27T04:48:32.755Z",
     "main_device_id": "device_p91ro3pwu",
     "device_id_1": "device_he4hts428",
-    "device_id_2": null
-  },
-  "6880": {
-    "code": "6880",
-    "expiry_date": "2025-08-26T10:21:12.570Z",
-    "main_device_id": "device_al6pek23a",
-    "device_id_1": null,
     "device_id_2": null
   },
   "7017": {
@@ -760,13 +725,6 @@
     "expiry_date": "2025-09-07T03:55",
     "main_device_id": "device_1bgzzij9z",
     "device_id_1": "device_zem6dgpul",
-    "device_id_2": null
-  },
-  "9218": {
-    "code": "9218",
-    "expiry_date": "2025-08-25T13:39:07.221Z",
-    "main_device_id": "device_bvqaf30tf",
-    "device_id_1": null,
     "device_id_2": null
   },
   "9231": {
