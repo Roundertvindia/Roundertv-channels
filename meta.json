@@ -1380,14 +1380,14 @@
   },
   {
     "id": "198",
-    "name": "Gejio TV",
+    "name": "Gemini TV",
     "category": "Telugu",
     "server": "JIO TV",
     "switch": "â"
   },
   {
     "id": "199",
-    "name": "Gejio Comedy",
+    "name": "Gemini Comedy",
     "category": "Telugu",
     "server": "JIO TV",
     "switch": "â"
@@ -1401,7 +1401,7 @@
   },
   {
     "id": "201",
-    "name": "Gejio Movies",
+    "name": "Gemini Movies",
     "category": "Telugu",
     "server": "JIO TV",
     "switch": "â"
@@ -2038,14 +2038,14 @@
   },
   {
     "id": "293",
-    "name": "Gejio Music",
+    "name": "Gemini Music",
     "category": "Telugu",
     "server": "JIO TV",
     "switch": "â"
   },
   {
     "id": "294",
-    "name": "Gejio Life",
+    "name": "Gemini Life",
     "category": "Telugu",
     "server": "JIO TV",
     "switch": "â"
@@ -2075,7 +2075,7 @@
     "id": "298",
     "name": "SVBC",
     "category": "Telugu",
-    "server": "http://jio.allinonereborn.online/jiootv-ww/app/ts_live_1417.m3u8JIO TV",
+    "server": "http://mini.allinonereborn.online/miniotv-ww/app/ts_live_1417.m3u8JIO TV",
     "switch": "❌"
   },
   {
