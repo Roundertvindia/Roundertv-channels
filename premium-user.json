@@ -1,19 +1,4 @@
 {
-  "124": {
-    "name": "Saikiran",
-    "id": "124",
-    "username": "saikiran001",
-    "password": "saikiran1254",
-    "mobile_number": "9004420926",
-    "plan": "@39",
-    "expiry_date": "2025-09-02T15:59",
-    "distribution_partner": "no",
-    "line_1": null,
-    "line_2": null,
-    "line_3": null,
-    "device_id_1": "device_nlqkbywv",
-    "device_id_2": "device_un0pqo03"
-  },
   "131": {
     "name": "Manju didi",
     "id": "131",
@@ -74,21 +59,6 @@
     "device_id_1": "device_tzb1dslz",
     "device_id_2": "device_ti6jyveob9"
   },
-  "475": {
-    "name": "Narender",
-    "id": "475",
-    "username": "narender001",
-    "password": "narender405",
-    "mobile_number": "9882868754",
-    "plan": "@39",
-    "expiry_date": "2025-09-05T10:32",
-    "distribution_partner": "no",
-    "line_1": null,
-    "line_2": null,
-    "line_3": null,
-    "device_id_1": null,
-    "device_id_2": null
-  },
   "618": {
     "name": "Manisha",
     "id": "618",
@@ -134,36 +104,6 @@
     "device_id_1": "device_uwgp2aeg",
     "device_id_2": null
   },
-  "695": {
-    "name": "Hasan Khan",
-    "id": "695",
-    "username": "hasan001",
-    "password": "hasan123",
-    "mobile_number": "8090698897",
-    "plan": "@39",
-    "expiry_date": "2025-09-02T12:25",
-    "distribution_partner": "no",
-    "line_1": null,
-    "line_2": null,
-    "line_3": null,
-    "device_id_1": "device_46ox4nzs",
-    "device_id_2": null
-  },
-  "782": {
-    "name": "Radheesh Wayanad",
-    "id": "782",
-    "username": "radheesh001",
-    "password": "radha1234",
-    "mobile_number": "9847204111",
-    "plan": "@39",
-    "expiry_date": "2025-09-04T10:30",
-    "distribution_partner": "no",
-    "line_1": null,
-    "line_2": null,
-    "line_3": null,
-    "device_id_1": "device_07g2zqf6",
-    "device_id_2": "device_sx57eq6g"
-  },
   "928": {
     "name": "Saran P",
     "id": "928",
@@ -178,21 +118,6 @@
     "line_3": null,
     "device_id_1": "device_a9vske0m",
     "device_id_2": null
-  },
-  "962": {
-    "name": "Nikita",
-    "id": "962",
-    "username": "nikita001",
-    "password": "nikita052",
-    "mobile_number": "7354752509",
-    "plan": "@29",
-    "expiry_date": "2025-09-09T10:34",
-    "distribution_partner": "no",
-    "line_1": null,
-    "line_2": null,
-    "line_3": null,
-    "device_id_1": "device_pz14q685",
-    "device_id_2": "device_t4z279nqk8"
   },
   "1755957137586": {
     "name": "Vasantha Reddy",
