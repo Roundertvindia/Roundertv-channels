@@ -10,7 +10,7 @@
     "code": "1123",
     "expiry_date": "2025-09-21T14:17:16.527Z",
     "main_device_id": "device_z3eaweuvk",
-    "device_id_1": "device_4nx2klcie",
+    "device_id_1": null,
     "device_id_2": null
   },
   "1170": {
@@ -24,8 +24,8 @@
     "code": "1175",
     "expiry_date": "2025-09-23T14:31:34.852Z",
     "main_device_id": "device_pk2dir06y",
-    "device_id_1": "device_b0bch8u3l",
-    "device_id_2": "device_x8375xioa"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "1316": {
     "code": "1316",
@@ -52,8 +52,8 @@
     "code": "1483",
     "expiry_date": "2025-09-12T04:11:32.727Z",
     "main_device_id": "device_eqk6cw53u",
-    "device_id_1": "device_6qjt8cci1",
-    "device_id_2": "device_xs9wvmgao"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "1514": {
     "code": "1514",
@@ -66,22 +66,22 @@
     "code": "1586",
     "expiry_date": "2025-09-11T08:15:42.583Z",
     "main_device_id": "device_txu6oqp62",
-    "device_id_1": "device_iw578neub",
+    "device_id_1": null,
     "device_id_2": null
   },
   "1644": {
     "code": "1644",
     "expiry_date": "2025-09-10T17:15:07.309Z",
     "main_device_id": "device_xmifimy3g",
-    "device_id_1": "device_02papkoyd",
-    "device_id_2": "device_hjrx1j7f5"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "1648": {
     "code": "1648",
     "expiry_date": "2025-09-19T07:41:28.304Z",
     "main_device_id": "device_yap642kfb",
-    "device_id_1": "device_zo6p4ew0a",
-    "device_id_2": "device_1rm2pnd7s"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "1687": {
     "code": "1687",
@@ -122,8 +122,8 @@
     "code": "1982",
     "expiry_date": "2025-09-11T04:25:50.777Z",
     "main_device_id": "device_ctdx8tvgg",
-    "device_id_1": "device_jz656qtz1",
-    "device_id_2": "device_yqthcpuv3"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "1986": {
     "code": "1986",
@@ -143,8 +143,8 @@
     "code": "2088",
     "expiry_date": "2025-09-19T16:16:59.774Z",
     "main_device_id": "device_a9i9cnlil",
-    "device_id_1": "device_cawd29kl1",
-    "device_id_2": "device_f4qvpo5fc"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "2116": {
     "code": "2116",
@@ -157,15 +157,15 @@
     "code": "2119",
     "expiry_date": "2025-09-19T08:17:24.370Z",
     "main_device_id": "device_k3poq8yq9",
-    "device_id_1": "device_5smwh05ps",
-    "device_id_2": "device_g1ecgyaom"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "2514": {
     "code": "2514",
     "expiry_date": "2026-08-16T03:17:02.558Z",
     "main_device_id": "device_hkfwyvss9",
-    "device_id_1": "device_xr47osrlo",
-    "device_id_2": "device_fmno3ijtk"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "2534": {
     "code": "2534",
@@ -202,19 +202,12 @@
     "device_id_1": "device_hn8efvbzf",
     "device_id_2": "device_qi2pl4817"
   },
-  "2932": {
-    "code": "2932",
-    "expiry_date": "2025-09-19T09:11:20.554Z",
-    "main_device_id": "device_z3iomh36k",
-    "device_id_1": null,
-    "device_id_2": null
-  },
   "2956": {
     "code": "2956",
     "expiry_date": "2025-09-19T05:03:38.357Z",
     "main_device_id": "device_zg15w8caw",
-    "device_id_1": "device_fokjirgyn",
-    "device_id_2": "device_gdyd5v4gf"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "2998": {
     "code": "2998",
@@ -234,8 +227,8 @@
     "code": "3028",
     "expiry_date": "2025-09-20T11:19:21.037Z",
     "main_device_id": "device_ryru63sgc",
-    "device_id_1": "device_6jilezljy",
-    "device_id_2": "device_wzxv2onaz"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "3138": {
     "code": "3138",
@@ -276,8 +269,8 @@
     "code": "3417",
     "expiry_date": "2027-08-25T09:56",
     "main_device_id": "device_934340fhd",
-    "device_id_1": "device_8g0zhjhdq",
-    "device_id_2": "device_hrvu8ybm8"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "3431": {
     "code": "3431",
@@ -297,7 +290,7 @@
     "code": "3513",
     "expiry_date": "2025-09-13T13:52:59.313Z",
     "main_device_id": "device_3r3iji51b",
-    "device_id_1": "device_2hhvvvzm8",
+    "device_id_1": null,
     "device_id_2": null
   },
   "3540": {
@@ -311,7 +304,7 @@
     "code": "3559",
     "expiry_date": "2025-09-21T01:06:55.173Z",
     "main_device_id": "device_gmf6g6khs",
-    "device_id_1": "device_g9bzk7q4l",
+    "device_id_1": null,
     "device_id_2": null
   },
   "3560": {
@@ -325,8 +318,8 @@
     "code": "3641",
     "expiry_date": "2025-09-20T09:50:21.330Z",
     "main_device_id": "device_65ixze5px",
-    "device_id_1": "device_t7qtlsixa",
-    "device_id_2": "device_uativt6rn"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "3689": {
     "code": "3689",
@@ -381,8 +374,8 @@
     "code": "4171",
     "expiry_date": "2025-09-19T05:53:32.338Z",
     "main_device_id": "device_cdocxiruy",
-    "device_id_1": "device_2z3nz5sb0",
-    "device_id_2": "device_rrajkcep7"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "4439": {
     "code": "4439",
@@ -437,29 +430,29 @@
     "code": "4884",
     "expiry_date": "2025-09-20T17:44:23.226Z",
     "main_device_id": "device_ciljvs7r3",
-    "device_id_1": "device_6xeth1cx3",
+    "device_id_1": null,
     "device_id_2": null
   },
   "4895": {
     "code": "4895",
     "expiry_date": "2025-09-21T12:05:23.221Z",
     "main_device_id": "device_a053m7mw5",
-    "device_id_1": "device_umwbtv6oa",
+    "device_id_1": null,
     "device_id_2": null
   },
   "4990": {
     "code": "4990",
     "expiry_date": "2025-09-10T12:04:56.121Z",
     "main_device_id": "device_lyfxeldt2",
-    "device_id_1": "device_vkjk4yntx",
+    "device_id_1": null,
     "device_id_2": null
   },
   "5047": {
     "code": "5047",
     "expiry_date": "2025-09-13T11:05:15.679Z",
     "main_device_id": "device_a6eq8816r",
-    "device_id_1": "device_4h8ynohmg",
-    "device_id_2": "device_vz53ztvar"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "5056": {
     "code": "5056",
@@ -500,7 +493,7 @@
     "code": "5432",
     "expiry_date": "2025-09-13T07:33:28.945Z",
     "main_device_id": "device_yj6teyf9a",
-    "device_id_1": "device_z9cnz9ckp",
+    "device_id_1": null,
     "device_id_2": null
   },
   "5723": {
@@ -521,7 +514,7 @@
     "code": "5774",
     "expiry_date": "2025-09-20T10:24:28.812Z",
     "main_device_id": "device_mc4973x7q",
-    "device_id_1": "device_ic7ya4m45",
+    "device_id_1": null,
     "device_id_2": null
   },
   "5889": {
@@ -538,18 +531,11 @@
     "device_id_1": null,
     "device_id_2": null
   },
-  "5950": {
-    "code": "5950",
-    "expiry_date": "2025-09-19T09:58:25.527Z",
-    "main_device_id": "device_7ncsl6cop",
-    "device_id_1": null,
-    "device_id_2": null
-  },
   "5998": {
     "code": "5998",
     "expiry_date": "2025-09-10T16:06:35.263Z",
     "main_device_id": "device_lt09pl14d",
-    "device_id_1": "device_z6u9gbe98",
+    "device_id_1": null,
     "device_id_2": null
   },
   "6021": {
@@ -601,18 +587,11 @@
     "device_id_1": "device_e6bicci2h",
     "device_id_2": null
   },
-  "6640": {
-    "code": "6640",
-    "expiry_date": "2025-09-19T19:11:34.225Z",
-    "main_device_id": "device_9vc5ml683",
-    "device_id_1": null,
-    "device_id_2": null
-  },
   "6735": {
     "code": "6735",
     "expiry_date": "2025-09-11T14:39:52.628Z",
     "main_device_id": "device_y2silsb6s",
-    "device_id_1": "device_srqz05knr",
+    "device_id_1": null,
     "device_id_2": null
   },
   "6736": {
@@ -668,8 +647,8 @@
     "code": "7125",
     "expiry_date": "2025-09-21T09:40:25.019Z",
     "main_device_id": "device_tlhs0q17c",
-    "device_id_1": "device_jbvm9va3e",
-    "device_id_2": "device_ixaxifov1"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "7330": {
     "code": "7330",
@@ -710,7 +689,7 @@
     "code": "7717",
     "expiry_date": "2025-09-13T08:37:43.100Z",
     "main_device_id": "device_yie7zwxzl",
-    "device_id_1": "device_ql0n8b4fl",
+    "device_id_1": null,
     "device_id_2": null
   },
   "7758": {
@@ -731,8 +710,8 @@
     "code": "7837",
     "expiry_date": "2026-08-24T02:43",
     "main_device_id": "device_iy230jz5e",
-    "device_id_1": "device_0x8t5ns8s",
-    "device_id_2": "device_o7krs3abs"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "8036": {
     "code": "8036",
@@ -745,7 +724,7 @@
     "code": "8038",
     "expiry_date": "2025-09-21T01:32:13.429Z",
     "main_device_id": "device_2l4ytate8",
-    "device_id_1": "device_hxme4r7ky",
+    "device_id_1": null,
     "device_id_2": null
   },
   "8168": {
@@ -794,14 +773,14 @@
     "code": "8486",
     "expiry_date": "2025-09-20T13:38:49.623Z",
     "main_device_id": "device_u5vcrn9i2",
-    "device_id_1": "device_4q09oc2jn",
-    "device_id_2": "device_jpylrqox8"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "8548": {
     "code": "8548",
     "expiry_date": "2025-09-20T17:56:55.220Z",
     "main_device_id": "device_syf3djkal",
-    "device_id_1": "device_bafrcbxvk",
+    "device_id_1": null,
     "device_id_2": null
   },
   "8609": {
@@ -843,14 +822,14 @@
     "code": "8836",
     "expiry_date": "2025-09-20T16:43:13.424Z",
     "main_device_id": "device_ygrlyvu88",
-    "device_id_1": "device_x7fg0c4ev",
-    "device_id_2": "device_vu5kzcurt"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "8932": {
     "code": "8932",
     "expiry_date": "2025-09-20T11:19:14.642Z",
     "main_device_id": "device_33rcslvpa",
-    "device_id_1": "device_3rgjes44w",
+    "device_id_1": null,
     "device_id_2": null
   },
   "9006": {
@@ -864,21 +843,21 @@
     "code": "9017",
     "expiry_date": "2025-09-10T08:10:03.978Z",
     "main_device_id": "device_pl7z19mc0",
-    "device_id_1": "device_gfshfu6k3",
-    "device_id_2": "device_epb4i06me"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "9057": {
     "code": "9057",
     "expiry_date": "2025-09-19T04:56:51.297Z",
     "main_device_id": "device_7q3z4ng6l",
-    "device_id_1": "device_w4kifw2al",
-    "device_id_2": "device_26zkbq5bh"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "9075": {
     "code": "9075",
     "expiry_date": "2025-09-11T19:07:55.821Z",
     "main_device_id": "device_wxqghogbm",
-    "device_id_1": "device_x2wfqi2vr",
+    "device_id_1": null,
     "device_id_2": null
   },
   "9093": {
@@ -906,7 +885,7 @@
     "code": "9275",
     "expiry_date": "2025-09-19T19:07:33.705Z",
     "main_device_id": "device_7kcnw94xh",
-    "device_id_1": "device_3chuxcy2r",
+    "device_id_1": null,
     "device_id_2": null
   },
   "9347": {
@@ -920,22 +899,22 @@
     "code": "9372",
     "expiry_date": "2025-09-19T18:24:26.716Z",
     "main_device_id": "device_yp31hl45q",
-    "device_id_1": "device_886cxic4x",
+    "device_id_1": null,
     "device_id_2": null
   },
   "9414": {
     "code": "9414",
     "expiry_date": "2025-09-09T18:10:58.934Z",
     "main_device_id": "device_y13uz0csf",
-    "device_id_1": "device_rhzjdfn3p",
-    "device_id_2": "device_fmzbl0r0a"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "9430": {
     "code": "9430",
-    "expiry_date": "2027-08-23T02:21",
+    "expiry_date": "",
     "main_device_id": "device_kxeiyfdh3",
-    "device_id_1": "device_m616orx8x",
-    "device_id_2": "device_eb4cwd8ex"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "9526": {
     "code": "9526",
@@ -948,14 +927,14 @@
     "code": "9527",
     "expiry_date": "2025-09-19T08:07",
     "main_device_id": "device_cbzblz58k",
-    "device_id_1": "device_kw02gm1t3",
+    "device_id_1": null,
     "device_id_2": null
   },
   "9607": {
     "code": "9607",
     "expiry_date": "2025-09-10T07:22:54.035Z",
     "main_device_id": "device_g541124o1",
-    "device_id_1": "device_9z68oziy1",
+    "device_id_1": null,
     "device_id_2": null
   },
   "9633": {
@@ -976,8 +955,8 @@
     "code": "9695",
     "expiry_date": "2025-09-20T08:25:53.280Z",
     "main_device_id": "device_4wvcv9xic",
-    "device_id_1": "device_gjjqfsqkh",
-    "device_id_2": "device_jk33zn251"
+    "device_id_1": null,
+    "device_id_2": null
   },
   "9966": {
     "code": "9966",
