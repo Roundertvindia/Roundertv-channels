@@ -29,6 +29,21 @@
     "device_id_1": "device_lrxqqoz0",
     "device_id_2": "device_1zbtyuk0"
   },
+  "291": {
+    "name": "Uttam",
+    "id": "291",
+    "username": "nontv",
+    "password": "ji",
+    "mobile_number": "65",
+    "plan": "@29",
+    "expiry_date": "2025-09-22T15:00",
+    "distribution_partner": "no",
+    "line_1": null,
+    "line_2": null,
+    "line_3": null,
+    "device_id_1": null,
+    "device_id_2": "device_kik50crslt"
+  },
   "295": {
     "name": "Jagarnath Mondal",
     "id": "295",
