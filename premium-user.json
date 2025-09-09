@@ -35,14 +35,14 @@
     "username": "nontv",
     "password": "ji",
     "mobile_number": "65",
-    "plan": "@29",
+    "plan": "@39",
     "expiry_date": "2025-09-22T15:00",
     "distribution_partner": "no",
     "line_1": null,
     "line_2": null,
     "line_3": null,
     "device_id_1": null,
-    "device_id_2": "device_kik50crslt"
+    "device_id_2": null
   },
   "295": {
     "name": "Jagarnath Mondal",
@@ -65,14 +65,14 @@
     "username": "nontv1",
     "password": "hd",
     "mobile_number": "6565",
-    "plan": "@29",
+    "plan": "@39",
     "expiry_date": "2025-09-30T15:01",
     "distribution_partner": "no",
     "line_1": null,
     "line_2": null,
     "line_3": null,
     "device_id_1": null,
-    "device_id_2": "device_cjzwzpxqo5"
+    "device_id_2": null
   },
   "434": {
     "name": "Susanta",
