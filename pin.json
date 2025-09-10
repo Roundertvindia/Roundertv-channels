@@ -531,6 +531,13 @@
     "device_id_1": null,
     "device_id_2": null
   },
+  "5483": {
+    "code": "5483",
+    "expiry_date": "2025-09-22T02:58:10.486Z",
+    "main_device_id": "device_blvla8fpv",
+    "device_id_1": null,
+    "device_id_2": null
+  },
   "5723": {
     "code": "5723",
     "expiry_date": "2025-08-31T05:42:15.541Z",
